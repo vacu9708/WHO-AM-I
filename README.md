@@ -5,34 +5,41 @@
 - 모르면 공부해서 해내고, 부족한 점이 있으면 고치려고 하는 열린 자세가 중요하다고 생각합니다.
 
 # 🌠Skills
-지금까지 경험해본 기술의 리스트입니다. 활용해보지 않은 기술 이라도 공부해서 해내는 것에 항상 열려있고 익숙합니다.
+지금까지 활용해본 기술의 리스트입니다. 활용해보지 않은 기술 이라도 공부해서 해내는 것에 항상 열려있고 익숙합니다.
 ### Database
-- [정규화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) 및 [인덱싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing)을 고려해 DB 테이블 설계를 해보았습니다.
+- [정규화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) 및 [인덱싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing)을 고려해 DB 테이블 설계를 해봤습니다.
 - [트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction)을 사용해서 데이터의 일관성을 지켜봤으며, Saga 패턴으로 [마이크로서비스](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture)들 간의 분산 트랜잭션을 수행해봤습니다.
 - WHERE, GROUP BY, HAVING, subquery 등 [SQL](https://github.com/vacu9708/Algorithm/tree/main/Algorithm%20traning/SQL%20training)을 사용해봤습니다.
-
+- [UUID와 자동 증가 key의 장단점](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/UUID%20VS%20Sequential%20as%20a%20primary%20key)에 관해 고민했고 활용해봤습니다.
+### Server-side
+- [JWT의 장단점, 사용법 등을 공부](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth)했고 로그인에 활용해봤습니다.
+- [Redis에 관해 공부]()했고 JWT 로그인 과정에 활용했습니다.
+- [Kafka의 기초적인 내용](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))을 공부했고 이메일 담당 마이크로 서비스에 활용 해봤습니다.
+- [운영체제 소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))을 공부했고 프로세스간 통신, 영상 회의 등을 개발하기 위해 활용했습니다.
+### 개발 방법론 및 패러다임
+- [관점지향 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm)을 공부했고 활용해봤습니다.
+- [객체지향 프로그래밍의 개념 및 설계 원칙](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm)에 관해 공부했고 좋은 설계를 하기 위해 노력합니다.
+- [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Concurrent%20programming) 및 [공유 메모리의 동기화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization)에 대해 공부했고 중요성을 인식하고 있으며
+- Spring Webflux와 자바스크립트 async-await를 활용해서 비동기 프로그래밍을 해봤습니다.
+### DevOps
+- [Docker, docker-compose에 관해 공부](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm)했고 활용해봤습니다
+- [Cloud에 관해 공부](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Cloud)했고 기본적인 AWS EC2 서버를 구축해 배포해봤으며 AWS S3를 이용해 파일 업로드, 다운로드를 구현해봤습니다.
+- [CI/CD를 공부](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm)했고, AWS EC2 + Jenkins + Docker를 활용해 배포 자동화를 구축해봤습니다.
+- clone, pull, push, branch, reset, pull request 등 [Git 사용법](https://github.com/vacu9708/Tools-etc/tree/main/Git)을 공부했고 활용하고 있습니다.
 ### Java
-- Spring을 공부하고 이용해서 [마이크로서비스 아키텍처 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)를 개발했습니다.
+- Spring을 공부하고 활용해서 [마이크로서비스 아키텍처 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)를 개발했습니다.
 ### Python
-- Python을 활용해 [알고리즘 문제 푸는 것](https://github.com/vacu9708/Algorithm/blob/main/Algorithm%20traning/README.md)을 좋아합니다.
-- Python을 포함해 Arduino, Raspberry Pi, 오픈소스 AI 라이브러리 등을 이용해서 [차를 추적하고 주차정보를 LED로 보여주는 임베디드 시스템](https://github.com/vacu9708/Smart-CCTV)을 개발했습니다.
+- Python을 이용해 [알고리즘 문제 푸는 것](https://github.com/vacu9708/Algorithm/tree/main)을 좋아합니다.
+- Python, Arduino, Raspberry Pi, 오픈소스 AI 라이브러리 등을 이용해서 [차를 추적하고 주차정보를 LED로 보여주는 임베디드 시스템](https://github.com/vacu9708/Smart-CCTV)을 개발했습니다.
 - Selenium과 C#을 활용해 지정한 웹 페이지의 업데이트 내용을 알려주는 [새 정보 알리미](https://github.com/vacu9708/Information_notifier)를 개발했습니다.
 ### Javascript
 - React, expressJS 및 다른 기술들을 활용해 [To-do list](https://github.com/vacu9708/To-do-list), [영상 회의](https://github.com/vacu9708/video-conference) 등을 개발했습니다.
 - nestJS를 활용해 간단한 [기업 입사 과제](https://github.com/vacu9708/nestjs_assignment_before_interview)를 수행했습니다.
 ### C/C++
-- 수동 메모리 관리를 공부했고 winAPI를 이용해 [게임 메모리 핵 프로그램](https://github.com/vacu9708/hacking) 및 [간단한 게임](https://github.com/vacu9708/Red-light-green-light) 등을 개발해봤습니다.
-### DevOps, etc
-- [Docker가 필요한 이유와 사용법](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology/Containerization)을 공부하고 활용해봤습니다
-- [Cloud가 필요한 이유](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Cloud)를 공부했고 기본적인 AWS EC2 서버를 구축해 배포해봤으며 AWS S3를 이용해 파일 업로드, 다운로드를 구현해봤습니다.
-- clone, pull, push, branch, reset, pull request 등 Git의 사용법 및 필요성을 공부했고 활용하고 있습니다.
-
-# 📖Study records
-
-
+- [자동 메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)에 비해 장단점이 있는 수동 메모리 관리에 대해 공부했고 winAPI를 이용해 [게임 메모리 핵 프로그램](https://github.com/vacu9708/hacking) 및 [간단한 게임](https://github.com/vacu9708/Red-light-green-light) 등을 개발해봤습니다.
 ### Languages
-- 영어: 대화 가능
-- 스페인어: 간단한 대화 가능
+- **영어**: 대화 가능
+- **스페인어**: 간단한 대화 가능
 
 # 🧑‍🏭Projects
 
