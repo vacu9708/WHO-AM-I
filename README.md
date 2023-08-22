@@ -53,7 +53,7 @@
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf)
 
 ### [기타 튜닝기](https://github.com/vacu9708/Guitar-tuner)
-![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)<img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/aaaaeb42-a92b-4782-b215-1a6c50a5c0ce" width="41%">
+![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)<img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/aaaaeb42-a92b-4782-b215-1a6c50a5c0ce" width="50%">
 - Arduino, Python, 고속푸리에변환을 활용해 개발
 
 # 🥇Achievements
