@@ -45,16 +45,24 @@
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/447203af-506b-499a-ad09-972897ca622d" width="80%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 몇 가지 API 개발
 
+---
+
 ### [영상 회의](https://github.com/vacu9708/video-conference)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="80%"><br>
 - webRTC를 기반으로 3명 이상 인원이 채팅 및 영상 통화를 할 수 있는 웹 페이지 개발
 
+---
+
 ### [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf)
+
+---
 
 ### [기타 튜닝기](https://github.com/vacu9708/Guitar-tuner)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)<img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/aaaaeb42-a92b-4782-b215-1a6c50a5c0ce" width="45%">
 - Arduino, Python, 고속푸리에변환을 활용해 개발
+
+---
 
 # 🥇Achievements
 - `2022.12.14` 인천대학교 LINC 3.0 사업단 [2022 LINC3.0 캡스톤디자인 경진대회]
