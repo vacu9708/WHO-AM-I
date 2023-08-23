@@ -12,12 +12,12 @@
 - WHERE, GROUP BY, HAVING, subquery 등 [SQL](https://github.com/vacu9708/Algorithm/tree/main/Algorithm%20traning/SQL%20training)을 사용해봤습니다.
 - [UUID와 자동 증가 key의 장단점](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/UUID%20VS%20Sequential%20as%20a%20primary%20key)에 관해 고민했고 활용해봤습니다.
 ### Server-side
-- [JWT 이론, 장단점, 사용법 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth)을 공부했고 로그인에 활용습니다.
-- [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)에 관해 공부했고 JWT 로그인 과정, 초당 요청 횟수 제한(token bucket 알고리즘)에 활용했습니다.
+- [JWT 이론, 장단점, 사용법 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth)을 공부했고 로그인에 활용했습니다.
+- [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)에 관해 공부했고 JWT 로그인 과정, 초당 요청횟수 제한[token bucket 알고리즘](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting)에 활용했습니다.
 - [Kafka의 기초적인 내용](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))을 공부했고 이메일 담당 마이크로 서비스에 활용해봤습니다.
 - [운영체제 소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))을 공부했고 프로세스간 통신, [영상 회의](https://github.com/vacu9708/video-conference)등의 개발에 활용했습니다.
 ### 개발 방법론 및 패러다임
-- [관점지향 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming)을 공부했고 활용해봤습니다.
+- [관점지향 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming)에 관해 공부했고 활용해봤습니다.
 - [객체지향 프로그래밍의 개념 및 설계 원칙](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Object%20Oriented%20Programming)에 관해 공부했고 좋은 설계를 하기 위해 노력합니다.
 - [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming) 및 [공유 메모리의 동기화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization)에 대해 공부했고 중요성을 인식하고 있으며 Spring Webflux와 자바스크립트 async-await를 활용해서 비동기 프로그래밍을 해봤습니다.
 ### DevOps, etc
@@ -43,8 +43,8 @@
 # 🧑‍🏭Projects
 ### [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/447203af-506b-499a-ad09-972897ca622d" width="80%"><br>
-- Spring을 기반으로 쇼핑몰에 필요한 몇 가지 API 개발
-- 혼자 개발했지만 팀 프로젝트처럼 브랜치 나눠서 개발했습니다.
+- Spring을 기반으로 쇼핑몰에 필요한 몇 가지 API를 개발
+- 개인 프로젝트지만 팀 프로젝트처럼 브랜치를 나눠서 개발
 
 ---
 
@@ -56,7 +56,7 @@
 
 ### [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf)
-- Python, Arduino, Raspeberry pi, 인공지능 등을 활용한 임베디드 시스템
+- Python, Arduino, Raspeberry pi, 인공지능 등을 활용한 임베디드 시스템을 개발
 
 ---
 
