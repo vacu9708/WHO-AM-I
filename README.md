@@ -38,26 +38,26 @@
 - [자동 메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)에 비해 장단점이 있는 수동 메모리 관리에 대해 공부했고 winAPI를 이용해 [게임 메모리 핵 프로그램](https://github.com/vacu9708/hacking) 및 [간단한 게임](https://github.com/vacu9708/Red-light-green-light) 등을 개발해봤습니다.
 
 # 🧑‍🏭Projects
-### [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)
+### `2023-06` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/447203af-506b-499a-ad09-972897ca622d" width="80%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 몇 가지 API를 개발
 - 개인 프로젝트지만 팀 프로젝트처럼 브랜치를 나눠서 개발
 
 ---
 
-### [영상 회의](https://github.com/vacu9708/video-conference)
+### `2022-09` [영상 회의](https://github.com/vacu9708/video-conference)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="80%"><br>
 - webRTC를 기반으로 3명 이상 인원이 채팅 및 영상 통화를 할 수 있는 웹 페이지 개발
 
 ---
 
-### [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV)
+### `2022-05` [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf)
 - Python, Arduino, Raspeberry pi, 인공지능 등을 활용한 임베디드 시스템을 개발
 
 ---
 
-### [기타 튜닝기](https://github.com/vacu9708/Guitar-tuner)
+### `2021-02` [기타 튜닝기](https://github.com/vacu9708/Guitar-tuner)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)<img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/aaaaeb42-a92b-4782-b215-1a6c50a5c0ce" width="45%">
 - Arduino, Python, [고속 푸리에변환](https://github.com/vacu9708/Signal-processing/tree/main/Fourier%20transform)을 활용해 개발
 
