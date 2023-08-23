@@ -4,7 +4,7 @@
 - 좋은 소프트웨어를 만들기 위해선 개인의 능력 뿐만 아니라 팀의 화합이 중요하다고 믿고 있습니다. 혼자서 할 수 없는 일도 함께한다면 해결할 수 있기 때문입니다.
 - 모르면 공부해서 해내고, 부족한 점이 있으면 고치려고 하는 열린 자세가 중요하다고 생각합니다.
 
-# 🌠Skills
+# 🌠Tech skills
 지금까지 활용해본 기술의 리스트입니다. 활용해보지 않은 기술 이라도 공부해서 해내는 것에 항상 열려있고 익숙합니다.
 ### Database
 - [정규화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) 및 [인덱싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing)을 고려해 DB 테이블 설계를 해봤습니다.
@@ -36,9 +36,6 @@
 - nestJS를 활용해 간단한 [기업 입사 과제](https://github.com/vacu9708/nestjs_assignment_before_interview)를 수행했습니다.
 ### C/C++
 - [자동 메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)에 비해 장단점이 있는 수동 메모리 관리에 대해 공부했고 winAPI를 이용해 [게임 메모리 핵 프로그램](https://github.com/vacu9708/hacking) 및 [간단한 게임](https://github.com/vacu9708/Red-light-green-light) 등을 개발해봤습니다.
-### Languages
-- **영어**: 대화 가능
-- **스페인어**: 간단한 대화 가능
 
 # 🧑‍🏭Projects
 ### [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)
@@ -74,3 +71,7 @@
 # 👨‍🎓Education
 - `2021.03 ~ 2023.02` 인천대학교, 임베디드시스템공학과, 학사, GPA 3.38 / 4.5
 - `2016.03 ~ 2021.02` 인하공업전문대학, 디지털전자과, 전문학사, GPA 3.89/4.5
+
+### Languages
+- **영어**: 대화 가능
+- **스페인어**: 간단한 대화 가능
