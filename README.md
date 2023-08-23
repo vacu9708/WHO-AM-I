@@ -54,13 +54,13 @@
 
 ### `2022-05` [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf)
-- Python, Arduino, Raspeberry pi, 인공지능 등을 활용한 임베디드 시스템을 개발
-
+- Python, Arduino, Raspberry pi, 인공지능 등을 이용해 차를 추적하고 주차정보를 LED 로 보여주는 임베디드 시스템 개발.
 ---
 
 ### `2021-02` [기타 튜닝기](https://github.com/vacu9708/Guitar-tuner)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)<img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/aaaaeb42-a92b-4782-b215-1a6c50a5c0ce" width="45%">
-- Arduino, Python, [고속 푸리에변환](https://github.com/vacu9708/Signal-processing/tree/main/Fourier%20transform)을 활용해 개발
+- 소리 분석기가 어떻게 작동하는지 연구, 소리의 음 이름을 알려주는 임베디드 시스템 개발
+- Arduino, Python, [고속 푸리에변환](https://github.com/vacu9708/Signal-processing/tree/main/Fourier%20transform) 활용
 
 ---
 
