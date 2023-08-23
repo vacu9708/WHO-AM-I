@@ -39,7 +39,7 @@
 
 # 🧑‍🏭Projects
 ### `2023-06` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)
-<img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/5477a728-4c96-4d5b-976c-2a3ab1872abf" width="80%"><br>
+<img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/b388707e-59d4-4d83-b6cf-bf83fbab1d02" width="80%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 몇 가지 API를 개발
 - 개인 프로젝트지만 팀 프로젝트처럼 브랜치를 나눠서 개발
 
