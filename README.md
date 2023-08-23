@@ -44,6 +44,7 @@
 ### [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/447203af-506b-499a-ad09-972897ca622d" width="80%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 몇 가지 API 개발
+- 혼자 개발했지만 팀 프로젝트처럼 브랜치 나눠서 개발했습니다.
 
 ---
 
