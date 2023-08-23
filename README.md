@@ -13,7 +13,7 @@
 - [UUID와 자동 증가 key의 장단점](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/UUID%20VS%20Sequential%20as%20a%20primary%20key)에 관해 고민했고 활용해봤습니다.
 ### Server-side
 - [JWT 이론, 장단점, 사용법 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth)을 공부했고 로그인에 활용했습니다.
-- [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)에 관해 공부했고 초당 요청횟수 제한([token bucket 알고리즘](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting)), JWT 로그인 과정 등에 활용했습니다.
+- [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)에 관해 공부했고 초당 요청횟수 제한( [token bucket 알고리즘](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting) ), JWT 로그인 과정 등에 활용했습니다.
 - [Kafka의 기초적인 내용](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))을 공부했고 이메일 담당 마이크로 서비스에 활용해봤습니다.
 - [운영체제 소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))을 공부했고 프로세스간 통신, [영상 회의](https://github.com/vacu9708/video-conference)등의 개발에 활용했습니다.
 ### 개발 방법론 및 패러다임
