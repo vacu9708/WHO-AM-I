@@ -17,7 +17,7 @@
 - [OAuth 2.0](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/OAuth)을 활용해 네이버로 로그인을 구현해봤습니다.
 - [운영체제 소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))을 공부했고 프로세스간 통신, [영상 회의](https://github.com/vacu9708/video-conference)등의 개발에 활용했습니다.
 - [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)에 관해 공부했고 초당 요청횟수 제한( [token bucket 알고리즘](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting) ), JWT 로그인 과정 등에 활용했습니다.
-- [Kafka](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))에 관해 공부했고 이메일 담당 마이크로서비스와 통신하기 위해 기초적인 활용을 해봤습니다.
+- [Kafka의 기본적인 내용](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))을 공부했고 이메일 담당 마이크로서비스와 통신하기 위해 활용해봤습니다.
 - 현재 서버의 모니터링 및 [로드밸런싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Service%20discovery%2C%20Load%20balancing)에 관심있고 중요성을 이해했지만 아직 구현해보진 않았습니다.
 ### 개발 방법론 및 패러다임
 - [객체지향 프로그래밍의 개념 및 설계 원칙](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Object%20Oriented%20Programming)에 관해 공부했고 좋은 설계를 하기 위해 노력합니다.
