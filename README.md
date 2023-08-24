@@ -9,7 +9,7 @@
 지금까지 활용해본 기술의 리스트입니다. 활용해보지 않은 기술이라도 공부해서 해내는 것에 항상 열려있고 익숙합니다.
 ### Database
 - [정규화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) 및 [인덱싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing)을 고려해 DB 테이블 설계를 해봤습니다.
-- [트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction)을 사용해서 데이터의 일관성을 지켜봤으며, [마이크로서비스](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture)들 간의 분산 트랜잭션을 구현해봤습니다.
+- [트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction)을 사용해서 데이터의 일관성을 지켜봤으며, 마이크로서비스들 간의 [분산 트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Saga%20pattern)을 구현해봤습니다.
 - WHERE, GROUP BY, HAVING, subquery 등 [SQL](https://github.com/vacu9708/Algorithm/tree/main/Algorithm%20traning/SQL%20training)을 사용해봤습니다.
 - [UUID와 자동 증가 key의 장단점](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/UUID%20VS%20Sequential%20as%20a%20primary%20key)에 관해 고민했고 활용해봤습니다.
 ### Server-side
@@ -18,6 +18,7 @@
 - [운영체제 소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))을 공부했고 프로세스간 통신, [영상 회의](https://github.com/vacu9708/video-conference)등의 개발에 활용했습니다.
 - [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)에 관해 공부했고 초당 요청횟수 제한( [token bucket 알고리즘](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting) ), JWT 로그인 과정 등에 활용했습니다.
 - [Kafka의 기본적인 내용](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))을 공부했고 이메일 담당 마이크로서비스와 통신하기 위해 활용해봤습니다.
+- [마이크로서비스](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Concepts)에 대해 공부했고 구현해봤습니다.
 - 현재 서버의 모니터링 및 [로드밸런싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Service%20discovery%2C%20Load%20balancing)에 관심있고 중요성을 이해했지만 아직 구현해보진 않았습니다.
 ### 개발 방법론 및 패러다임
 - [객체지향 프로그래밍의 개념 및 설계 원칙](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Object%20Oriented%20Programming)에 관해 공부했고 좋은 설계를 하기 위해 노력합니다.
