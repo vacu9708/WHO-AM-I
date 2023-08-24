@@ -74,6 +74,7 @@
   - "옥내 주차장 주차면 입출차 예측 알림등 시스템", **1위**
 <br>![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/26245bd0-e14d-4eeb-97d2-382cf17eaf04)
 
-# 😃Languages(한국어 원어민)
+# 😃Languages
+한국어 원어민
 - **영어**: 자유로운 회화 가능
 - **스페인어**: 간단한 회화 가능
