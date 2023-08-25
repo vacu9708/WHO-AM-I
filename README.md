@@ -37,7 +37,7 @@
 - Python, Arduino, Raspberry Pi, AI 라이브러리 등을 활용해서 [차를 추적하고 주차정보를 LED로 보여주는 임베디드 시스템](https://github.com/vacu9708/Smart-CCTV)을 개발했습니다.
 - Selenium과 C#을 활용해 지정한 웹 페이지의 업데이트 내용을 알려주는 [새 정보 알리미](https://github.com/vacu9708/Information_notifier)를 개발했습니다.
 ### Javascript
-- React, expressJS 및 다른 기술들을 활용해 [To-do list](https://github.com/vacu9708/To-do-list), 영상 회의 등을 개발했습니다.
+- Typescript, React, expressJS 및 다른 기술들을 활용해 [To-do list](https://github.com/vacu9708/To-do-list), 영상 회의 등을 개발했습니다.
 - nestJS를 이용해 [기업 입사 과제](https://github.com/vacu9708/nestjs_assignment_before_interview)를 수행했습니다.
 ### C/C++
 - [자동 메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)에 비해 장단점이 있는 수동 메모리 관리에 대해 공부했고 winAPI를 이용해 [게임 메모리 해킹](https://github.com/vacu9708/hacking) 및 [간단한 게임](https://github.com/vacu9708/Red-light-green-light) 등을 개발해봤습니다.
