@@ -15,18 +15,19 @@
 ### Server-side
 - [JWT와 Session 로그인 이론, 장단점, 사용법 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/JWT%2C%20session)을 공부했고 로그인 구현에 활용했습니다.
 - [OAuth 2.0](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/OAuth)을 활용해 네이버로 로그인, 구글로 로그인을 구현해봤습니다.
-- [운영체제 소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))을 공부했고 프로세스간 통신, [영상 회의](https://github.com/vacu9708/video-conference)등의 개발에 활용했습니다.
+- [운영체제 소켓과 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))을 공부했고 프로세스간 통신, [영상 회의](https://github.com/vacu9708/video-conference)등의 개발에 활용했습니다.
 - [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)에 관해 공부했고 JWT 폐기, 대규모 트래픽에 대응하기 위한 초당 요청횟수 제한([token bucket 알고리즘](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting)) 등에 활용했습니다.
 - [Kafka의 기본적인 내용](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))을 공부했고 이메일 담당 마이크로서비스와 통신하기 위해 활용해봤습니다.
-- [마이크로서비스의 이론, 장단점. 필요성](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Concepts)에 대해 공부했고 구현해봤으며 Circuit breaker로 서버 장애의 전파를 방지해봤습니다.
+- [마이크로서비스의 이론, 장단점. 필요성 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Concepts)을 공부했고 구현해봤으며 Circuit breaker로 서버 장애의 전파를 방지해봤습니다.
 - 현재 서버의 모니터링 및 대규모 트래픽에 대응하기 위한 [로드밸런싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Service%20discovery%2C%20Load%20balancing)에 관심있고 중요성을 이해했지만 아직 구현해보진 않았습니다.
+- HTTP의 문제점을 이해하고 [HTTPS](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Security/Encryption) 서버를 구축해봤습니다.
 ### 개발 방법론 및 패러다임
 - [객체지향 프로그래밍의 개념 및 설계 원칙](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Object%20Oriented%20Programming)에 관해 공부했고 좋은 설계를 하기 위해 노력합니다.
 - [관점지향 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming)에 관해 공부했고 활용해봤습니다.
-   [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming) 및 [공유 메모리의 동기화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization)에 대해 공부했고 중요성을 인식하고 있으며 Spring Webflux와 자바스크립트 async-await를 활용해서 비동기 프로그래밍을 해봤습니다.
+- [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming) 및 [공유 메모리의 동기화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization)에 대해 공부했고 중요성을 인식하고 있으며 Spring Webflux와 자바스크립트 async-await를 활용해서 비동기 프로그래밍을 해봤습니다.
 - [테스트 코드](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Testing)에 대해 공부했고 junit을 이용해 테스트코드를 작성해봤습니다.
 ### DevOps, etc
-- [Cloud](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Cloud)에 관해 공부했고 기본적인 AWS EC2 서버를 구축해 배포해봤으며 AWS S3를 이용한 파일 업로드, 다운로드를 구현해봤습니다.
+- [Cloud](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Cloud)에 관해 공부했고 AWS EC2로 Linux 서버를 구축해봤으며 AWS S3를 이용한 파일 업로드, 다운로드를 구현해봤습니다.
 - [Docker, docker-compose](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Containerization)에 관해 공부했고 활용해봤습니다
 - [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD)에 관해 공부했고, AWS EC2 + Jenkins + Docker를 활용해 배포 자동화를 구축해봤습니다.
 - clone, pull, push, branch, reset, pull request 등 [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git)을 활용해왔습니다.
