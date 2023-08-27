@@ -6,7 +6,7 @@
 - 공부한 내용을 잊지않도록 꾸준히 기록하는 습관을 가지고 있습니다. 제 github 기록에서 나타나듯이, 저는 꾸준히, 열심히 노력하며 미래를 위해 성장하는 개발자입니다.
 
 # 🌠Tech skills
-지금까지 경험해본 기술의 리스트입니다. 활용해보지 않은 기술이라도 공부해서 해내는 것에 항상 열려있고 익숙합니다.
+지금까지 경험해본 기술의 리스트입니다.
 ### Database
 - [정규화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) 및 [인덱싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing)을 고려해 DB 테이블 설계를 해봤습니다.
 - [트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction)을 사용해서 데이터의 일관성을 지켜봤으며, 마이크로서비스들 간의 [분산 트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Saga%20pattern)을 구현해봤습니다.
