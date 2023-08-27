@@ -27,7 +27,7 @@
 - [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming) 및 [공유 메모리의 동기화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization)에 대해 공부했고 중요성을 인식하고 있으며 Spring Webflux와 자바스크립트 async-await를 활용해서 비동기 프로그래밍을 해봤습니다.
 - [테스트 코드](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Testing)에 대해 공부했고 junit을 이용해 테스트코드를 작성해봤습니다.
 ### DevOps, etc
-- [Cloud](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Cloud): AWS EC2로 Linux 서버를 구축해봤으며 AWS S3를 이용한 파일 업로드, 다운로드를 구현해봤습니다.
+- [Cloud:](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Cloud) AWS EC2로 Linux 서버를 구축해봤으며 AWS S3를 이용한 파일 업로드, 다운로드를 구현해봤습니다.
 - [Docker, docker-compose](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Containerization)에 관해 공부했고 활용해봤습니다
 - [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD)에 관해 공부했고, AWS EC2 + Jenkins + Docker를 활용해 배포 자동화를 구축해봤습니다.
 - clone, pull, push, branch, reset, pull request 등 [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git)을 활용해왔습니다.
