@@ -30,7 +30,7 @@
 - AWS EC2로 [Cloud](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Cloud) Linux 서버를 구축해봤으며 AWS S3를 이용한 파일 업로드, 다운로드를 구현해봤습니다.
 - [Docker, docker-compose](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Containerization)에 관해 공부했고 활용해봤습니다
 - [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD)에 관해 공부했고, AWS EC2 + Jenkins + Docker를 활용해 배포 자동화를 구축해봤습니다.
-- clone, pull, push, branch, reset 등 [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git)을 활용해봤고 branch를 나누고 pull request로 merge하는 개발을 해봤습니다. 
+- clone, pull, push, reset 등 [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git)을 활용해봤고 branch를 나누고 pull request로 merge하는 개발을 해봤습니다. 
 ### Java
 - Spring을 공부하고 활용해서 [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)를 개발했습니다.
 ### Python
