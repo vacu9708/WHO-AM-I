@@ -23,7 +23,7 @@
 - 현재 서버의 모니터링 및 대규모 트래픽에 대응하기 위한 [로드밸런싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Service%20discovery%2C%20Load%20balancing) 및 [대규모 쿼리 처리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Handling%20large%20traffic)에 관심이 많고 중요성을 이해했지만 아직 구현해보진 않았습니다.
 ### 개발 방법론 및 패러다임
 - [Object Oriented Programming의 개념 및 설계 원칙](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Object%20Oriented%20Programming)에 관해 공부했고 이해하기 쉽고 좋은 설계를 하기 위해 노력합니다.
-- [Aspect Oriented Programming](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming)에 관해 공부했고 활용해봤습니다.
+- [Aspect Oriented Programming](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming)가 필요한 상황에 대해 공부했고 활용해봤습니다.
 - [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming) 및 [공유 메모리의 동기화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization)에 대해 공부했고 중요성을 인식하고 있으며 Spring Webflux와 자바스크립트 async-await를 활용해서 비동기 프로그래밍을 해봤습니다.
 - [테스트 코드](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Testing)의 중요성에 대해 공부했고 junit을 이용해 테스트코드를 작성해봤습니다.
 ### DevOps, etc
