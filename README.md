@@ -17,7 +17,7 @@
 - [OAuth](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/OAuth) API 공식 문서를 읽고 네이버로 로그인, 구글로 로그인을 구현해봤습니다.
 - [운영체제 소켓과 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))을 공부했고 프로세스간 통신, [영상 회의](https://github.com/vacu9708/video-conference)등의 개발에 활용했습니다.
 - [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)에 관해 공부했고 JWT 폐기, 대규모 트래픽에 대응하기 위한 초당 요청횟수 제한([token bucket 알고리즘](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting)) 등에 활용했습니다.
-- [Kafka의 기본적인 내용과 쓰는 이유](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))을 에 관해 공부했고 대규모 트래픽에서 이메일 담당 마이크로서비스와 통신하기 위해 활용해봤습니다.
+- [Kafka의 기본적인 내용과 쓰는 이유](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))에 관해 공부했고 대규모 트래픽에서 이메일 담당 마이크로서비스와 통신하기 위해 활용해봤습니다.
 - [마이크로서비스의 이론, 장단점. 필요성 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Concepts)을 공부했고 구현해봤으며 Circuit breaker로 서버 장애의 전파를 방지해봤습니다.
 - HTTP의 문제점을 이해하고 [HTTPS](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Security/Encryption) 서버를 구축해봤습니다.
 - 현재 서버의 모니터링 및 대규모 트래픽에 대응하기 위한 [로드밸런싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Service%20discovery%2C%20Load%20balancing) 및 [대규모 쿼리 처리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Handling%20large%20traffic)에 관심이 많고 중요성을 이해했지만 아직 구현해보진 않았습니다.
