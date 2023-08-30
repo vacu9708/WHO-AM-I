@@ -40,7 +40,7 @@
 - Typescript, React, expressJS 및 다른 기술들을 활용해 [To-do list](https://github.com/vacu9708/To-do-list), 영상 회의 등을 개발했습니다.
 - nestJS를 이용해 [과제](https://github.com/vacu9708/nestjs_assignment_before_interview)를 수행했습니다.
 ### C/C++
-- [자동 메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)에 비해 장단점이 있는 수동 메모리 관리에 대해 공부했고 winAPI를 이용해 [게임 메모리 해킹](https://github.com/vacu9708/hacking) 및 [간단한 게임](https://github.com/vacu9708/Red-light-green-light) 등을 개발해봤습니다.
+- [자동 메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)가 아닌 수동 메모리 관리에 언어라는 특징을 활용해 winAPI로 [게임 메모리 해킹](https://github.com/vacu9708/hacking)를 개발해봤고 [간단한](https://github.com/vacu9708/Red-light-green-light) [게임](https://github.com/vacu9708/Dodge-pieces-of-poop)들을 개발해봤습니다.
 - [자료구조들](https://github.com/vacu9708/Data-structure)을 구현해봤습니다.
 
 # 🧑‍🏭Projects
