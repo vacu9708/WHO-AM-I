@@ -19,7 +19,7 @@
 - [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)에 관해 공부했고 JWT 폐기, 대규모 트래픽에 대응하기 위한 초당 요청횟수 제한([token bucket 알고리즘](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting)) 등에 활용했습니다.
 - [Kafka](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))에 관해 공부했고 대규모 트래픽에서 decoupled 처리로 서버 부하를 분산하기 위해 이메일 담당 마이크로서비스에 활용해봤습니다. partition을 나누고 consumer group을 설정해 [로드밸런싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Service%20discovery%2C%20Load%20balancing)을 적용했습니다.
 - [마이크로서비스의 이론, 장단점 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Concepts)을 공부했고 구현해봤으며 Circuit breaker로 서버 장애의 전파를 방지해봤습니다.
-- HTTP의 문제점을 이해하고 [HTTPS](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Security/Encryption) 서버를 구축해봤습니다.
+- http의 문제점을 이해하고 [https](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Security/Encryption) 서버를 구축해봤습니다.
 ### 개발 방법론 및 패러다임
 - [Object Oriented Programming의 개념 및 설계 원칙](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Object%20Oriented%20Programming)에 관해 공부했고 이해하기 쉽고 좋은 설계를 하기 위해 노력합니다.
 - [Aspect Oriented Programming](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming)가 필요한 상황에 대해 공부했고 활용해봤습니다.
@@ -55,7 +55,7 @@
 ### `2022-09` [영상 회의](https://github.com/vacu9708/video-conference)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="80%"><br>
 - Javascript 내장 API webRTC를 이용해 3명 이상 인원이 채팅 및 영상 통화를 할 수 있는 웹 페이지 개발
-- 영상통화의 보안을 위해 HTTPs 적용
+- 영상통화의 보안을 위해 https 적용
 ---
 
 ### `2022-05` [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV)
