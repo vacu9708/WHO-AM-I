@@ -6,7 +6,6 @@
 - 좋은 소프트웨어를 만들기 위해선 개인의 능력 뿐만 아니라 `팀의 화합`이 중요하다고 믿고 있습니다. 혼자서 할 수 없는 일도 함께한다면 해결할 수 있기 때문입니다.
 
 # 🌠Tech skills
-지금까지 경험해본 기술의 리스트입니다.
 ### Database
 - [정규화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) 및 [인덱싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing)을 고려해 DB 테이블 설계를 해봤습니다.
 - [트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction)을 사용해서 데이터의 일관성을 지켜봤으며, 마이크로서비스들 간의 [분산 트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Saga%20pattern)을 구현해봤습니다.
