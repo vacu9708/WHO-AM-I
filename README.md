@@ -19,7 +19,7 @@
 - [Kafka](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))에 관해 공부했고 대규모 트래픽에서 decoupled 처리로 서버 부하를 분산하기 위해 이메일 담당 마이크로서비스에 활용해봤습니다. partition을 나누고 consumer group을 설정해 [로드밸런싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Service%20discovery%2C%20Load%20balancing)을 적용했습니다.
 - [마이크로서비스의 이론, 장단점 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Concepts)을 공부했고 구현해봤으며 Circuit breaker로 서버 장애의 전파를 방지해봤습니다.
 - http의 문제점을 이해하고 [https](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Security/Encryption) 서버를 구축해봤습니다.
-### Development methdology and paradigm
+### Development methodology and paradigm
 - [Object Oriented Programming의 개념 및 설계 원칙](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Object%20Oriented%20Programming)에 관해 공부했고 이해하기 쉽고 좋은 설계를 하기 위해 노력합니다.
 - [Aspect Oriented Programming](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming)가 필요한 상황에 대해 공부했고 활용해봤습니다.
 - [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming) 및 [공유 메모리의 동기화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization)에 대해 공부했고 중요성을 인식하고 있으며 Spring Webflux와 자바스크립트 async-await를 활용해서 비동기 프로그래밍을 해봤습니다. 동시 이메일 전송에 thread pool을 사용해 thread overhead를 줄여봤습니다.
