@@ -67,7 +67,7 @@
 ### `2020-04` [기타 튜닝기](https://github.com/vacu9708/Guitar-tuner)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)<img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/aaaaeb42-a92b-4782-b215-1a6c50a5c0ce" width="45%">
 - 소리 분석기가 어떻게 작동하는지 연구했고 악기의 튜닝을 도와주는 임베디드 시스템 개발
-- [고속 푸리에변환](https://github.com/vacu9708/Signal-processing/tree/main/Fourier%20transform)을 공하면서 신호처리의 수학이 실생활에서 어떻게 적용되는지 이해를 얻게됨
+- [고속 푸리에변환](https://github.com/vacu9708/Signal-processing/tree/main/Fourier%20transform)을 공부하면서 신호처리의 수학이 실생활에서 어떻게 적용되는지 이해를 얻게됨
 ---
 
 # 🥇Achievements
