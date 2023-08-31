@@ -25,11 +25,12 @@
 - [Aspect Oriented Programming](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming)가 필요한 상황에 대해 공부했고 활용해봤습니다.
 - [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming) 및 [공유 메모리의 동기화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization)에 대해 공부했고 중요성을 인식하고 있으며 Spring Webflux와 자바스크립트 async-await를 활용해서 비동기 프로그래밍을 해봤습니다. 동시 이메일 전송에 thread pool을 사용해 thread overhead를 줄여봤습니다.
 - [테스트 코드](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Testing)에 관해 공부했고 junit을 이용해 테스트코드를 작성해봤습니다.
+- 개발하기 전에 아키텍처를 시각화하려고 노력합니다.
 ### DevOps, etc
 - AWS EC2로 [Cloud](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Cloud) linux 서버를 구축해봤으며 AWS S3를 이용한 파일 업로드, 다운로드를 구현해봤습니다.
 - [Docker와 docker-compose](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Containerization)를 활용해봤습니다
 - AWS EC2 + Jenkins + Docker를 활용해 [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD)를 구축해봤습니다.
-- clone, pull, push, reset 등 [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git)을 활용해봤고 branch를 나누고 pull request로 merge하는 개발을 해봤습니다. 
+- clone, pull, push, reset 등 [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git)을 활용해봤고 branch를 나누고 pull request로 merge하는 개발을 해봤습니다.
 ### Java
 - Spring을 공부하고 활용해서 [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)를 개발했습니다.
 ### Python
@@ -48,7 +49,7 @@
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/b388707e-59d4-4d83-b6cf-bf83fbab1d02" width="80%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 API 개발
 - 개인 프로젝트지만 팀 프로젝트처럼 하기 위해 브랜치를 나눠서 개발
-- 코드 작성 전에 아키텍처의 큰 그림을 그림
+- 코드 작성 전에 아키텍처를 시각화
 - 분산 시스템, 로드밸런싱, thread pool, 비동기 처리, Redis, JWT 등 대규모 트래픽을 처리하기 위해 노력
 ---
 
