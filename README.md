@@ -50,7 +50,7 @@
 - Spring을 기반으로 쇼핑몰에 필요한 API 개발
 - 개인 프로젝트지만 팀 프로젝트처럼 하기 위해 브랜치를 나눠서 개발
 - 코드 작성 전에 아키텍처를 시각화
-- 분산 시스템, 로드밸런싱, thread pool, 비동기 처리, Redis, JWT 등 대규모 트래픽을 처리하기 위해 노력
+- 분산 시스템, 로드밸런싱, Message queue, 비동기 처리, Redis, JWT 등 대규모 트래픽을 처리하기 위해 노력
 ---
 
 ### `2022-09` [영상 회의](https://github.com/vacu9708/video-conference)
