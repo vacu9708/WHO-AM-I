@@ -55,8 +55,8 @@
 
 ### `2022-09` [영상 회의](https://github.com/vacu9708/video-conference)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="80%"><br>
-- Javascript 내장 API webRTC를 이용해 3명 이상 인원이 채팅 및 영상 통화를 할 수 있는 웹 페이지 개발
-- 영상통화의 보안을 위해 https 적용
+- React와 Javascript 내장 API webRTC를 이용해 3명 이상 인원이 채팅 및 영상 통화를 할 수 있는 웹 페이지 개발
+- 브라우저의 보안정책을 지키기 위해 보안을 위해 https 적용
 ---
 
 ### `2022-05` [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV)
