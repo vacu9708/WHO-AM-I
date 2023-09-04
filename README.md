@@ -60,7 +60,7 @@
 ---
 
 ### `2022-05` [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV)
-<img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf" height="80%"><br>
+<img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf" height="70%"><br>
 - Python, Arduino, Raspberry pi 등을 이용해 차를 추적하고 주차정보를 LED 로 보여주는 임베디드 시스템 개발.
 - 주차공간을 찾을 때 낭비되는 시간을 줄이는 것이 목표
 ---
