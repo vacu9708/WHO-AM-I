@@ -41,6 +41,7 @@
 ### C/C++
 - [자동 메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)가 아닌 수동 메모리 관리 언어라는 특징을 이용해 winAPI로 [게임 메모리를 해킹](https://github.com/vacu9708/hacking)해봤고 [간단한](https://github.com/vacu9708/Red-light-green-light) [게임](https://github.com/vacu9708/Dodge-pieces-of-poop)들을 개발해봤습니다.
 - [자료구조들](https://github.com/vacu9708/Data-structure)을 구현해봤습니다.
+- Arduino를 이용해 임베디드 시스템을 개발해봤습니다.
 
 # 🧑‍🏭Projects
 ### `2023-06` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)
