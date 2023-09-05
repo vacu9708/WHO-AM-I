@@ -56,8 +56,8 @@
 ### `2020-04` [Guitar Tuner](https://github.com/vacu9708/Guitar-tuner)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)<br>
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/5a4266c7-eaea-4b97-96ae-4e87b6524b30" width="60%"><br>
-- Researched how sound analyzers work and developed an embedded system to assist in tuning instruments.
-- Gained understanding of how the mathematics of signal processing is applied in real life while studying [Fast Fourier Transform](https://github.com/vacu9708/Signal-processing/tree/main/Fourier%20transform).
+- Developed an embedded system to assist in tuning instruments.
+- Researched how sound analyzers work and gained understanding of how the mathematics of signal processing is applied in real life while studying [Fast Fourier Transform](https://github.com/vacu9708/Signal-processing/tree/main/Fourier%20transform).
 
 ### Side projects
 - (Python selenium, C#, etc) : Developed [New information notifier](https://github.com/vacu9708/Information_notifier) that notifies updates on specified web pages using Selenium and C#.
