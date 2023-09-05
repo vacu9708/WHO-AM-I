@@ -77,5 +77,5 @@
 - **English**: 자유로운 회화 가능
 - **Español**: 일상 회화 가능
 
-# Education
+# 👨‍🎓Education
 인천대학교, 임베디드시스템공학과, 학사 학위
