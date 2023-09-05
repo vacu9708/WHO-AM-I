@@ -30,6 +30,7 @@
 - AWS EC2 + Jenkins + Docker를 활용해 [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD)를 구축해봤습니다.
 - clone, pull, push, reset 등 [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git)을 활용해봤고 branch를 나누고 pull request로 merge하는 개발을 해봤습니다.
 - [자료구조들](https://github.com/vacu9708/Data-structure)을 구현해봤습니다.
+- [공부 기록](https://github.com/vacu9708/Fundamental-knowledge)
 
 # 🧑‍🏭Projects
 ### `2023-06` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)
