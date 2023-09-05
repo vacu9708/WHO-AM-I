@@ -62,7 +62,7 @@
 ### Side projects
 - (Python selenium, C# 등) : 지정한 웹 페이지의 업데이트 내용을 알려주는 [새 정보 알리미](https://github.com/vacu9708/Information_notifier) 개발
 - (Typescript, React, expressJS 등) : [To-do list](https://github.com/vacu9708/To-do-list), [nestJS 과제](https://github.com/vacu9708/nestjs_assignment_before_interview) 등 개발
-- (C++, winAPI) : 수동 메모리 관리 언어([자동 메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management))라는 특징을 활용해 [게임 메모리 해킹](https://github.com/vacu9708/hacking), [간단한](https://github.com/vacu9708/Red-light-green-light) [게임](https://github.com/vacu9708/Dodge-pieces-of-poop) 등 개발
+- (C++, winAPI) : [메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)가 수동이라는 특징을 활용해 [게임 메모리 해킹](https://github.com/vacu9708/hacking), [간단한](https://github.com/vacu9708/Red-light-green-light) [게임](https://github.com/vacu9708/Dodge-pieces-of-poop) 등 개발
 
 ---
 
