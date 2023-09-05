@@ -29,18 +29,7 @@
 - [Docker와 docker-compose](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Containerization)를 활용해봤습니다
 - AWS EC2 + Jenkins + Docker를 활용해 [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD)를 구축해봤습니다.
 - clone, pull, push, reset 등 [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git)을 활용해봤고 branch를 나누고 pull request로 merge하는 개발을 해봤습니다.
-### Java
-- Spring을 활용해서 [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)를 개발했습니다.
-### Python
-- Python으로 [알고리즘 문제 푸는 것](https://github.com/vacu9708/Algorithm/tree/main)을 좋아합니다.
-- Python, Arduino, Raspberry Pi 등을 활용해서 [차를 추적하고 주차정보를 LED로 보여주는 임베디드 시스템](https://github.com/vacu9708/Smart-CCTV)을 개발했습니다.
-- Selenium과 C#을 활용해 지정한 웹 페이지의 업데이트 내용을 알려주는 [새 정보 알리미](https://github.com/vacu9708/Information_notifier)를 개발했습니다.
-### Javascript
-- Typescript, React, expressJS, nestJS 등을 활용해 [과제](https://github.com/vacu9708/nestjs_assignment_before_interview), [To-do list](https://github.com/vacu9708/To-do-list), 영상 회의 등을 개발했습니다.
-### C/C++
-- [자동 메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)가 아닌 수동 메모리 관리 언어라는 특징을 이용해 winAPI로 [게임 메모리를 해킹](https://github.com/vacu9708/hacking)해봤고 [간단한](https://github.com/vacu9708/Red-light-green-light) [게임](https://github.com/vacu9708/Dodge-pieces-of-poop)들을 개발해봤습니다.
 - [자료구조들](https://github.com/vacu9708/Data-structure)을 구현해봤습니다.
-- Arduino를 이용해 임베디드 시스템을 개발해봤습니다.
 
 # 🧑‍🏭Projects
 ### `2023-06` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)
@@ -68,6 +57,13 @@
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/5a4266c7-eaea-4b97-96ae-4e87b6524b30" width="60%"><br>
 - 소리 분석기가 어떻게 작동하는지 연구했고 악기의 튜닝을 도와주는 임베디드 시스템 개발
 - [고속 푸리에변환](https://github.com/vacu9708/Signal-processing/tree/main/Fourier%20transform)을 공부하면서 신호처리의 수학이 실생활에서 어떻게 적용되는지 이해를 얻게됨
+---
+
+### Side projects
+- (Python selenium, C# 등) : 지정한 웹 페이지의 업데이트 내용을 알려주는 [새 정보 알리미](https://github.com/vacu9708/Information_notifier) 개발
+- (Typescript, React, expressJS 등) : [To-do list](https://github.com/vacu9708/To-do-list), [과제](https://github.com/vacu9708/nestjs_assignment_before_interview) 등 개발
+- (C++, winAPI) : [자동 메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)가 아닌 수동 메모리 관리 언어라는 특징을 활용해 [게임 메모리 해킹](https://github.com/vacu9708/hacking), [간단한](https://github.com/vacu9708/Red-light-green-light) [게임](https://github.com/vacu9708/Dodge-pieces-of-poop) 등 개발
+
 ---
 
 # 🥇Achievements
