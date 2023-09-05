@@ -30,7 +30,7 @@
 - have set up [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD) using AWS EC2 + Jenkins + Docker.
 - have used [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git) with commands like clone, pull, push, reset, etc., and have done development by dividing branches and merging through pull requests.
 - implemented [data structures](https://github.com/vacu9708/Data-structure).
-- [공부 기록](https://github.com/vacu9708/Fundamental-knowledge)
+- [Study note](https://github.com/vacu9708/Fundamental-knowledge)
 
 # 🧑‍🏭Projects
 ### `2023-06` [Shopping Mall Server Composed of Microservices](https://github.com/vacu9708/Shopping-mall)
