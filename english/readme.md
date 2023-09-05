@@ -61,7 +61,7 @@
 ### Side projects
 - (Python selenium, C#, etc) : Developed [New information notifier](https://github.com/vacu9708/Information_notifier) that notifies updates on specified web pages using Selenium and C#.
 - (Typescript, React, expressJS, etc) : Developed [To-do list](https://github.com/vacu9708/To-do-list), [nestJS asssignment](https://github.com/vacu9708/nestjs_assignment_before_interview), etc
-- (C++, winAPI) : Developed [Hack game memory](https://github.com/vacu9708/hacking) utilizing the characteristic of manual memory management language([automatic memory management](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)) and [simple](https://github.com/vacu9708/Red-light-green-light) [games](https://github.com/vacu9708/Dodge-pieces-of-poop), etc
+- (C++, winAPI) : Developed [Hack game memory](https://github.com/vacu9708/hacking) utilizing the characteristic of manual [memory management](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management) and [simple](https://github.com/vacu9708/Red-light-green-light) [games](https://github.com/vacu9708/Dodge-pieces-of-poop), etc
 ---
 
 # 🥇Achievements
