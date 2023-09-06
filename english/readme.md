@@ -32,7 +32,7 @@
 - [Study note](https://github.com/vacu9708/Fundamental-knowledge)
 
 # 🧑‍🏭Projects
-### `2023-06` [Shopping Mall Server Composed of Microservices](https://github.com/vacu9708/Shopping-mall)
+### `2023-06` [Shopping Mall Server Composed of Microservices](https://github.com/vacu9708/Shopping-mall) (Personal project)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/b388707e-59d4-4d83-b6cf-bf83fbab1d02" width="65%"><br>
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/afd85c78-3db2-4f34-85b7-e2e04dbc0e4b" width="65%"><br>
 - Developed necessary APIs for a shopping mall based on Spring.
@@ -40,19 +40,19 @@
 - Strived to handle large-scale traffic with distributed systems, load balancing, message queues, asynchronous processing, Redis, JWT, etc.
 ---
 
-### `2022-09` [Video Conference](https://github.com/vacu9708/video-conference)
+### `2022-09` [Video Conference](https://github.com/vacu9708/video-conference) (Personal project)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="70%"><br>
 - Developed a web page where more than 3 people can chat and video call using the JavaScript built-in API webRTC, React etc.
 - Applied https to comply with browser security policies.
 ---
 
-### `2022-05` [Parking Information Notifier](https://github.com/vacu9708/Smart-CCTV)
+### `2022-05` [Parking Information Notifier](https://github.com/vacu9708/Smart-CCTV) (Academic project)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf" width="70%"><br>
 - Developed an embedded system that tracks cars and displays parking information on LEDs using Python, Arduino, Raspberry Pi, etc.
 - The goal is to reduce the time wasted when looking for a parking space.
 ---
 
-### `2020-04` [Guitar Tuner](https://github.com/vacu9708/Guitar-tuner)
+### `2020-04` [Guitar Tuner](https://github.com/vacu9708/Guitar-tuner) (Academic project)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)<br>
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/5a4266c7-eaea-4b97-96ae-4e87b6524b30" width="60%"><br>
 - Developed an embedded system to assist in tuning instruments.
