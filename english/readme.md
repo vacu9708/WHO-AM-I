@@ -8,7 +8,7 @@
 ### Database
 - have designed DB tables considering [Normalization](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) and [Indexing](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing).
 - have maintained data consistency using [Transactions](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction), and implemented [distributed transactions](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Saga%20pattern) between microservices.
-- have been utilizing [SQL](https://github.com/vacu9708/Algorithm/tree/main/Algorithm%20traning/SQL%20training) with WHERE, GROUP BY, HAVING, subqueries, etc.
+- have been utilizing [SQL](https://github.com/vacu9708/Algorithm/tree/main/Algorithm%20traning/SQL%20training)
 - have considered and utilized the pros and cons of [UUID and auto-increment keys](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/UUID%20VS%20Sequential%20as%20a%20primary%20key).
 ### Server-side
 - have studied the theory, pros and cons, and usage of [JWT and Session login](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/JWT%2C%20session), and applied them to login implementation.
