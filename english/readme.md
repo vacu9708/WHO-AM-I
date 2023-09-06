@@ -23,7 +23,6 @@
 - have studied and applied [Aspect Oriented Programming](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming) in necessary situations.
 - have studied [concurrent programming](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming) and [synchronization of shared memory](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization), and recognize their importance. I have done asynchronous programming using Spring Webflux and JavaScript async-await. I reduced thread overhead by using a thread pool for concurrent email sending.
 - have studied [test codes](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Testing) and written test codes using junit.
-- try to visualize the architecture by drawing the relationships between components before starting development.
 ### DevOps, etc
 - have set up a linux server on AWS EC2 for [Cloud](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Cloud) and implemented file upload and download using AWS S3.
 - have utilized [Docker and docker-compose](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Containerization).
