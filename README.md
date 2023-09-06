@@ -74,7 +74,7 @@
 
 # 😃Languages
 한국어 원어민이고 외국어 공부를 즐깁니다.
-- **English**: 자유로운 회화 가능
+- **English**: 비즈니스 회화 가능
 - **Español**: 일상 회화 가능
 
 # 👨‍🎓Education
