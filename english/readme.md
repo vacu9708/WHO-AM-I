@@ -42,7 +42,7 @@
 
 ### `2022-09` [Video Conference](https://github.com/vacu9708/video-conference)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="70%"><br>
-- Developed a web page where more than 3 people can chat and video call using React and the JavaScript built-in API webRTC.
+- Developed a web page where more than 3 people can chat and video call using the JavaScript built-in API webRTC, React etc.
 - Applied https to comply with browser security policies.
 ---
 
