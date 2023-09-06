@@ -12,7 +12,7 @@
 - have considered and utilized the pros and cons of [UUID and auto-increment keys](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/UUID%20VS%20Sequential%20as%20a%20primary%20key).
 ### Server-side
 - have studied the theory, pros and cons, and usage of [JWT and Session login](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/JWT%2C%20session), and applied them to login implementation.
-- read the official documents of [OAuth](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/OAuth) API and implemented login with Naver and Google.
+- read the official documents of [OAuth](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/OAuth) API and implemented signin with Google(Also signin with naver).
 - developed inter-process communication and [video conferences](https://github.com/vacu9708/video-conference) using [operating system sockets and websockets](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket)).
 - developed features such as JWT revocation and rate limiting for high traffic using [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis).
 - developed a microservice responsible for emails using [Kafka](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka)) to distribute server load under high traffic through decoupled processing. I applied [load balancing](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Service%20discovery%2C%20Load%20balancing) by setting up partitions and consumer groups.
