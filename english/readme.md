@@ -65,7 +65,7 @@
 ---
 
 # 🥇Achievements
-- `2022.12.14` Incheon National University LINC 3.0 Business Group [2022 LINC3.0 Capstone Design Competition]
+- `2022.12.14` 2022 LINC3.0 Capstone Design Competition
   - "Indoor Parking Lot Parking Space Entry/Exit Prediction Notification Light System", **1st Place**
 <br>![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/26245bd0-e14d-4eeb-97d2-382cf17eaf04)
 
