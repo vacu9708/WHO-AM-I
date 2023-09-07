@@ -37,7 +37,7 @@
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/afd85c78-3db2-4f34-85b7-e2e04dbc0e4b" width="65%"><br>
 - Developed necessary APIs for a shopping mall based on Spring.
 - Visualized the architecture before writing code.
-- Strived to handle large-scale traffic with distributed systems, Kafka(load balancing), asynchronous processing, Redis, JWT, etc.
+- Strived to handle as much traffic as possible with distributed systems, Kafka(load balancing), asynchronous processing, Redis, JWT, etc.
 ---
 
 ### `2022-09` [Video Conference](https://github.com/vacu9708/video-conference) (Personal project)
