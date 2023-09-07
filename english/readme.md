@@ -2,7 +2,7 @@
 - If I were to summarize myself in one sentence, I am a `developer who doesn't give up easily, even when my task seems daunting`.
 - I take the initiative to `challenge myself with difficult tasks` even without being told to. Even when things were daunting and difficult, I found things to study on my own without relying on educational institutions or instructors, and recorded them on GitHub to prevent forgetting what I learned.
 - I believe having an `open attitude` to study what I don't know and try to fix what is lacking is important.
-- I believe that `team harmony` is important to create good software and we should think about how to achieve it. This is because we can solve problems that cannot be solved alone if we work together.
+- I believe that `team harmony` is important to create good software and we should think about how to foster it. This is because we can solve problems that cannot be solved alone if we work together.
 
 # 🌠Tech skills
 ### Database
