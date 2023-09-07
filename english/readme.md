@@ -46,13 +46,13 @@
 - Applied https to comply with browser security policies.
 ---
 
-### `2022-05` [Parking Information Notifier](https://github.com/vacu9708/Smart-CCTV) (Academic project)
+### `2022-05` [Parking Information Notifier](https://github.com/vacu9708/Smart-CCTV) (Academic team project)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf" width="70%"><br>
 - Developed an embedded system that tracks cars and displays parking information on LEDs using Python, Arduino, Raspberry Pi, etc.
 - The goal is to reduce the time wasted when looking for a parking space.
 ---
 
-### `2020-04` [Guitar Tuner](https://github.com/vacu9708/Guitar-tuner) (Academic project)
+### `2020-04` [Guitar Tuner](https://github.com/vacu9708/Guitar-tuner) (Academic personal project)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)<br>
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/5a4266c7-eaea-4b97-96ae-4e87b6524b30" width="60%"><br>
 - Developed an embedded system to assist in tuning instruments.
