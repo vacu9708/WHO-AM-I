@@ -37,7 +37,7 @@
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/afd85c78-3db2-4f34-85b7-e2e04dbc0e4b" width="65%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 API 개발
 - 코드 작성 전에 아키텍처를 시각화
-- 분산 시스템, 로드밸런싱, Message queue, 비동기 처리, Redis, JWT 등 대규모 트래픽을 처리하기 위해 노력
+- 분산 시스템, Kafka(로드밸런싱), 비동기 처리, Redis, JWT 등 대규모 트래픽을 처리하기 위해 노력
 ---
 
 ### `2022-09` [영상 회의](https://github.com/vacu9708/video-conference)
