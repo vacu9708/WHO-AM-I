@@ -32,7 +32,7 @@
 - [공부 기록](https://github.com/vacu9708/Fundamental-knowledge)
 
 # 🧑‍🏭Projects
-### `2023-06` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)
+### `2023-06` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall) (개인 프로젝트)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/b388707e-59d4-4d83-b6cf-bf83fbab1d02" width="65%"><br>
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/afd85c78-3db2-4f34-85b7-e2e04dbc0e4b" width="65%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 API 개발
@@ -40,19 +40,19 @@
 - 분산 시스템, Kafka(로드밸런싱), 비동기 처리, Redis, JWT 등 최대한 많은 트래픽을 처리하기 위해 노력
 ---
 
-### `2022-09` [영상 회의](https://github.com/vacu9708/video-conference)
+### `2022-09` [영상 회의](https://github.com/vacu9708/video-conference) (개인 프로젝트)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="70%"><br>
 - React와 Javascript 내장 API webRTC를 이용해 3명 이상 인원이 채팅 및 영상 통화를 할 수 있는 웹 페이지 개발
 - 브라우저의 보안정책을 지키기 위해 보안을 위해 https 적용
 ---
 
-### `2022-05` [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV)
+### `2022-05` [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV) (대학교 팀 프로젝트)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf" width="70%"><br>
 - Python, Arduino, Raspberry pi 등을 이용해 차를 추적하고 주차정보를 LED 로 보여주는 임베디드 시스템 개발.
 - 주차공간을 찾을 때 낭비되는 시간을 줄이는 것이 목표
 ---
 
-### `2020-04` [기타 튜닝기](https://github.com/vacu9708/Guitar-tuner)
+### `2020-04` [기타 튜닝기](https://github.com/vacu9708/Guitar-tuner) (대학교 개인 프로젝트)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)<br>
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/5a4266c7-eaea-4b97-96ae-4e87b6524b30" width="60%"><br>
 - 악기의 튜닝을 도와주는 임베디드 시스템 개발
