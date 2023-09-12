@@ -28,7 +28,7 @@
 - have utilized [Docker and docker-compose](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Containerization).
 - have set up [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD) using AWS EC2 + Jenkins + Docker.
 - have used [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git) with commands like clone, pull, push, reset, etc., and have done development by dividing branches and merging through pull requests.
-- implemented [data structures](https://github.com/vacu9708/Data-structure).
+- implemented [data structures](https://github.com/vacu9708/Data-structure) using C++ and Python.
 - [Study records](https://github.com/vacu9708/Fundamental-knowledge)
 
 # 🧑‍🏭Projects
