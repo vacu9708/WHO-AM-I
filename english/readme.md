@@ -67,11 +67,3 @@
 - `2022.12.14` 2022 LINC3.0 Capstone Design Competition
   - "Parking space entry/exit notification light system in indoor parking lot", **1st Place**
 <br>![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/26245bd0-e14d-4eeb-97d2-382cf17eaf04)
-
-# 😃Languages
-I am a native Korean speaker and enjoy studying foreign languages.
-- **English**: Business english
-- **Español**: Daily conversation
-
-# 👨‍🎓Education
-Incheon National University, Embedded Systems Engineering, Bachelor's Degree
