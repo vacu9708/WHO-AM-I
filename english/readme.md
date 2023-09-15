@@ -72,7 +72,7 @@
 # 😃Languages
 I am a native Korean speaker and enjoy studying foreign languages.
 - **English**: Business english
-- **Español**: Capable of daily conversation
+- **Español**: Daily conversation
 
 # 👨‍🎓Education
 Incheon National University, Embedded Systems Engineering, Bachelor's Degree
