@@ -1,6 +1,6 @@
 # 🙌Introduction
 - If I were to summarize myself in one sentence, I am a `developer who doesn't give up easily, even when my task seems daunting` I hardly gave up when I encountered challenging situations during development.
-- I believe having an `open attitude` to study what I don't know and try to fix what is lacking is important. I am a `fast learner`. I have searched for what to study on my own without relying on educational institutions, and recorded what I studied on my GitHub to remember what I learned.
+- I believe having an `open attitude` to study what I don't know and try to fix what is lacking is important. I am a `fast learner`. I have independently taken the initiative to study what I don't know, and recorded what I studied on my GitHub to remember what I learned.
 - I believe that `team harmony` is important to create good software and we should think about how to foster it since we can solve problems that cannot be solved alone if we work together.
 
 # 🌠Tech skills
