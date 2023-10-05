@@ -31,7 +31,7 @@
 - [공부 기록](https://github.com/vacu9708/Fundamental-knowledge)
 
 # 🧑‍🏭Projects
-### `2023-06` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall) (개인 프로젝트)
+### `2023-06~2023-07` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall) (개인 프로젝트)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/b388707e-59d4-4d83-b6cf-bf83fbab1d02" width="65%"><br>
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/afd85c78-3db2-4f34-85b7-e2e04dbc0e4b" width="65%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 API 개발
@@ -45,7 +45,7 @@
 - 브라우저의 보안정책을 지키기 위해 보안을 위해 https 적용
 ---
 
-### `2022-05` [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV) (대학교 팀 프로젝트)
+### `2022-05 ~ 2022-12` [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV) (대학교 팀 프로젝트)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf" width="70%"><br>
 - Python, Arduino, Raspberry pi 등을 이용해 차를 추적하고 주차정보를 LED 로 보여주는 임베디드 시스템 개발.
 - 주차공간을 찾을 때 낭비되는 시간을 줄이는 것이 목표
