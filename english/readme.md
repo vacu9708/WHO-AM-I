@@ -46,7 +46,7 @@
 - Applied https to comply with browser security policies.
 ---
 
-### `2022-05` [Parking Information Notifier](https://github.com/vacu9708/Smart-CCTV) (Academic team project)
+### `2022-05 ~ 2022-12` [Parking Information Notifier](https://github.com/vacu9708/Smart-CCTV) (Academic team project)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf" width="70%"><br>
 - Developed an embedded system that tracks cars and displays parking information on LEDs using Python, Arduino, Raspberry Pi, etc.
 - The goal is to reduce the time wasted when looking for a parking space.
