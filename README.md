@@ -32,7 +32,7 @@
 - [자료구조들](https://github.com/vacu9708/Data-structure)을 C++와 Python을 이용해서 구현해봤습니다.
 - [공부 기록](https://github.com/vacu9708/Fundamental-knowledge)
 ### Firmware
-- [신호처리](https://github.com/vacu9708/Signal-processing), 마이크로컨트롤러, 전자회로, 리눅스, 디지털 논리회로, VHDL, 반도체공학, 제어공학 등의 수업 수강
+- [신호처리](https://github.com/vacu9708/Signal-processing), C++, 마이크로컨트롤러, 전자회로, 리눅스, 디지털 논리회로, VHDL, 반도체공학, 제어공학 등의 수업 수강
 
 # 🧑‍🏭프로젝트
 ### `2023-06~2023-07` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall) (개인 프로젝트)
