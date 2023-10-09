@@ -1,10 +1,11 @@
 # 🙌소개
+안녕하십니까, Firmware에 관심있는 개발자 양영식입니다.
 - 저는 막막하더라도 웬만하면 포기하지 않습니다. 개발을 하면서 어려운 일에 막힌 적이 많았지만 해결할때까지 잠을 못잤던 경험이 먆습니다.
 - 저는 진취적으로 모르는 것들을 공부해왔고 공부한 것들을 기록해 나중에 기억할 수 있도록 했습니다.
 - 저는 부족한 점을 개선하기 위한 피드백 수용에 열려있습니다.
 - 좋은 소프트웨어를 만들기 위해선 팀의 화합이 중요하고, 어떻게 협업을 잘 할 수 있을지 고민해야된다고 믿습니다.
 
-# 🌠소프트웨어 기술
+# 🌠기술
 ### Database
 - [정규화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) 및 [인덱싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing)을 고려해 DB 테이블 설계를 해봤습니다.
 - [트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction)을 사용해서 데이터의 일관성을 지켜봤으며, 마이크로서비스들 간의 [분산 트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Saga%20pattern)을 구현해봤습니다.
