@@ -40,7 +40,7 @@
 - 분산 시스템, Kafka(로드밸런싱), 비동기 처리, Redis, JWT 등 최대한 많은 트래픽을 처리하기 위해 노력
 ---
 
-### `2022-09` [영상 회의](https://github.com/vacu9708/video-conference) (개인 프로젝트)
+### `2022-09 ~ 2022-11` [영상 회의](https://github.com/vacu9708/video-conference) (개인 프로젝트)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="70%"><br>
 - React와 Javascript 내장 API webRTC를 이용해 3명 이상 인원이 채팅 및 영상 통화를 할 수 있는 웹 페이지 개발
 - 브라우저의 보안정책을 지키기 위해 보안을 위해 https 적용
