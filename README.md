@@ -30,7 +30,7 @@
 - AWS EC2 + Jenkins + Docker를 활용해 [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD)를 구축해봤습니다.
 - clone, pull, push, reset 등 [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git)을 활용해봤고 branch를 나누고 pull request로 merge하는 개발을 해봤습니다.
 - [자료구조들](https://github.com/vacu9708/Data-structure)을 C++와 Python을 이용해서 구현해봤습니다.
-- [공부 기록](https://github.com/vacu9708/Fundamental-knowledge)
+- [공부 기록(운영체제, 네트워크, 알고리즘 등)](https://github.com/vacu9708/Fundamental-knowledge)
 ### Firmware
 - [신호처리](https://github.com/vacu9708/Signal-processing), C++, 마이크로컨트롤러, 전자회로, 리눅스, 디지털 논리회로, VHDL, 반도체공학, 제어공학 등의 수업 수강
 
