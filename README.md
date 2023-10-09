@@ -1,10 +1,10 @@
-# 🙌Introduction
+# 🙌소개
 - 저는 막막하더라도 웬만하면 포기하지 않습니다. 개발을 하면서 어려운 일에 막힌 적이 많았지만 해결할때까지 잠을 못잤던 경험이 먆습니다.
 - 저는 `진취적으로` 모르는 것들을 공부해왔고 공부한 것들을 기록해 나중에 기억할 수 있도록 했습니다.
 - 저는 부족한 점을 개선하기 위한 피드백 수용에 열려있습니다.
 - 좋은 소프트웨어를 만들기 위해선 `팀의 화합`이 중요하고, 어떻게 협업을 잘 할 수 있을지 고민해야된다고 믿습니다. 혼자서 할 수 없는 일도 함께한다면 해결할 수 있기 때문입니다.
 
-# 🌠Tech skills
+# 🌠기술 경험
 ### Database
 - [정규화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) 및 [인덱싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing)을 고려해 DB 테이블 설계를 해봤습니다.
 - [트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction)을 사용해서 데이터의 일관성을 지켜봤으며, 마이크로서비스들 간의 [분산 트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Saga%20pattern)을 구현해봤습니다.
@@ -31,7 +31,7 @@
 - [자료구조들](https://github.com/vacu9708/Data-structure)을 C++와 Python을 이용해서 구현해봤습니다.
 - [공부 기록](https://github.com/vacu9708/Fundamental-knowledge)
 
-# 🧑‍🏭Projects
+# 🧑‍🏭프로젝트
 ### `2023-06~2023-07` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall) (개인 프로젝트)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/b388707e-59d4-4d83-b6cf-bf83fbab1d02" width="65%"><br>
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/afd85c78-3db2-4f34-85b7-e2e04dbc0e4b" width="65%"><br>
@@ -59,7 +59,7 @@
 - 소리 분석기가 어떻게 작동하는지 연구했고 [고속 푸리에변환](https://github.com/vacu9708/Signal-processing/tree/main/Fourier%20transform)을 공부하면서 신호처리의 수학이 실생활에서 어떻게 적용되는지 이해를 얻게됨
 ---
 
-### Side projects
+### 기타 프로젝트
 - (Python selenium, C# 등) : 친구의 요청과 피드백을 받아 지정한 웹 페이지의 업데이트 내용을 알려주는 [새 정보 알리미](https://github.com/vacu9708/Information_notifier) 개발
 - (Typescript, React, nodeJS 등) : [To-do list](https://github.com/vacu9708/To-do-list), [nestJS 과제](https://github.com/vacu9708/nestjs_assignment_before_interview) 등 개발
 - (C++, winAPI) : [메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)가 수동이라는 특징을 활용해 [게임 메모리 해킹](https://github.com/vacu9708/hacking), [간단한](https://github.com/vacu9708/Red-light-green-light) [게임](https://github.com/vacu9708/Dodge-pieces-of-poop) 등 개발
