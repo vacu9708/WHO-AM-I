@@ -1,5 +1,5 @@
 # 🙌Introduction
-- Even when things are daunting, **I usually do not give up**. I've encountered many difficulties while developing, but there have been many times when I couldn't sleep until I resolved the issues.
+- **I usually do not give up** no matter how daunting the task. I have encountered many difficult challenges and been stuck on them during development, but there have been many times when I couldn't sleep until I resolved the issues.
 - I have been **proactive in learning** about things I don't know. I've recorded what I've studied on my Github so I can remember it later.
 - I am **open to feedback** to improve my shortcomings.
 - I believe that **team harmony** is important for creating good software, and we need to think about how to collaborate well. This is because we can solve problems together that we cannot solve alone.
