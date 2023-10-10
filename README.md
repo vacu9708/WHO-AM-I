@@ -13,14 +13,14 @@
 - [Aspect Oriented Programming](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming) 필요한 상황에 대해 공부했고 활용해봤습니다.
 - [테스트 코드](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Testing)에 관해 공부했고 junit을 이용해 테스트코드를 작성해봤습니다.
 - [Docker와 docker-compose](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Containerization)를 활용해봤습니다
-### Firmware
+### 펌웨어
 - 대학에서 [신호처리](https://github.com/vacu9708/Signal-processing), 마이크로컨트롤러, 전자회로, 논리회로, VHDL, 반도체공학 등 전자공학 수업을 수강하였습니다.
-### Database
+### 데이터베이스
 - [정규화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) 및 [인덱싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing)을 고려해 DB 테이블 설계를 해봤습니다.
 - [트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction)을 사용해서 데이터의 일관성을 지켜봤으며, 마이크로서비스들 간의 [분산 트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Saga%20pattern)을 구현해봤습니다.
 - [SQL](https://github.com/vacu9708/Algorithm/tree/main/Algorithm%20traning/SQL%20training)을 활용해오고 있습니다.
 - [UUID와 자동 증가 key의 장단점](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/UUID%20VS%20Sequential%20as%20a%20primary%20key)에 관해 고민했고 활용해봤습니다.
-### Server
+### 서버
 - [JWT와 Session 로그인 이론, 장단점, 사용법 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/JWT%2C%20session)을 공부했고 로그인 구현에 활용했습니다.
 - [OAuth](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/OAuth) API 공식 문서를 읽고 네이버로 로그인, 구글로 로그인을 구현해봤습니다.
 - [운영체제 소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))을 활용해 프로세스간 통신, [영상 회의](https://github.com/vacu9708/video-conference)등을 개발했습니다.
@@ -55,11 +55,11 @@
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/5a4266c7-eaea-4b97-96ae-4e87b6524b30" width="60%"><br>
 - (Arduino, Python등 활용)악기의 튜닝을 도와주는 임베디드 시스템 개발
 - 소리 분석기가 어떻게 작동하는지 연구했고 [고속 푸리에변환](https://github.com/vacu9708/Signal-processing/tree/main/Fourier%20transform)을 공부하면서 신호처리의 수학이 실생활에서 어떻게 적용되는지 이해를 얻게됨
----
 
-### 기타 프로젝트
-- (C/C++, winAPI) : [메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)가 수동이라는 특징을 활용해 [게임 메모리 해킹](https://github.com/vacu9708/hacking), [간단한](https://github.com/vacu9708/Red-light-green-light) [게임](https://github.com/vacu9708/Dodge-pieces-of-poop) 등 개발
-- (Python selenium, C# 등) : 친구의 요청과 피드백을 받아 지정한 웹 페이지의 업데이트 내용을 알려주는 [새 정보 알리미](https://github.com/vacu9708/Information_notifier) 개발
+### C/C++, winAPI
+[메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)가 수동이라는 특징을 활용해 [게임 메모리 해킹](https://github.com/vacu9708/hacking), [간단한](https://github.com/vacu9708/Red-light-green-light) [게임](https://github.com/vacu9708/Dodge-pieces-of-poop) 등 개발
+### Python selenium, C#
+친구의 요청과 피드백을 받아 지정한 웹 페이지의 업데이트 내용을 알려주는 [새 정보 알리미](https://github.com/vacu9708/Information_notifier) 개발
 
 ---
 
