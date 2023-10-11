@@ -6,6 +6,7 @@
 # 🌠기술
 - [공부 기록(알고리즘, 운영체제, 네트워크 등)](https://github.com/vacu9708/Fundamental-knowledge)
 - C/C++ (구조체, 포인터, 비트연산자 등)
+- 대학에서 [신호처리](https://github.com/vacu9708/Signal-processing), 마이크로컨트롤러, 전자회로, 논리회로, VHDL, 반도체공학 등 전자공학 수업을 수강하였습니다.
 - [자료구조들](https://github.com/vacu9708/Data-structure)을 C++와 Python을 이용해서 구현해봤습니다.
 - [Race condition과 공유 메모리의 동기화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization) 및 [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming)에 대해 공부했고 Spring Webflux와 Javascript async-await를 활용해서 비동기 프로그래밍을 해봤습니다. 동시 이메일 전송에 thread pool을 사용해 thread overhead를 줄여봤습니다.
 - clone, pull, push, reset 등 [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git)을 활용해봤고 branch를 나누고 pull request로 merge하는 개발을 해봤습니다.
@@ -13,8 +14,6 @@
 - [Aspect Oriented Programming](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming) 필요한 상황에 대해 공부했고 활용해봤습니다.
 - [테스트 코드](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Testing)에 관해 공부했고 junit을 이용해 테스트코드를 작성해봤습니다.
 - [Docker와 docker-compose](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Containerization)를 활용해봤습니다
-### 펌웨어
-- 대학에서 [신호처리](https://github.com/vacu9708/Signal-processing), 마이크로컨트롤러, 전자회로, 논리회로, VHDL, 반도체공학 등 전자공학 수업을 수강하였습니다.
 ### 데이터베이스
 - [정규화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) 및 [인덱싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing)을 고려해 DB 테이블 설계를 해봤습니다.
 - [트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction)을 사용해서 데이터의 일관성을 지켜봤으며, 마이크로서비스들 간의 [분산 트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Saga%20pattern)을 구현해봤습니다.
