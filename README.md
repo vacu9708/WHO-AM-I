@@ -20,7 +20,7 @@
 - [트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction)을 사용해서 데이터의 일관성을 지켜봤으며, 마이크로서비스들 간의 [분산 트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Saga%20pattern)을 구현해봤습니다.
 - [SQL](https://github.com/vacu9708/Algorithm/tree/main/Algorithm%20traning/SQL%20training)을 활용해오고 있습니다.
 - [UUID와 자동 증가 key의 장단점](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/UUID%20VS%20Sequential%20as%20a%20primary%20key)에 관해 고민했고 활용해봤습니다.
-### 서버
+### 서버 개발
 - [JWT와 Session 로그인 이론, 장단점, 사용법 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/JWT%2C%20session)을 공부했고 로그인 구현에 활용했습니다.
 - [OAuth](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/OAuth) API 공식 문서를 읽고 네이버로 로그인, 구글로 로그인을 구현해봤습니다.
 - [운영체제 소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))을 활용해 프로세스간 통신, [영상 회의](https://github.com/vacu9708/video-conference)등을 개발했습니다.
@@ -28,14 +28,15 @@
 - decoupled 처리로 서버 부하를 분산하기 위해 [Kafka](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))를 활용해서 이메일 담당 마이크로서비스를 개발해봤습니다. partition을 나누고 consumer group을 설정해 [로드밸런싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Service%20discovery%2C%20Load%20balancing)을 적용했습니다.
 - [마이크로서비스의 이론, 장단점 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Concepts)을 공부했고 구현해봤으며 Circuit breaker로 서버 장애의 전파를 방지해봤습니다.
 - http의 문제점을 이해하고 [https](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Security/Encryption) 서버를 구축해봤습니다.
+- AWS EC2 + Jenkins + Docker를 활용해 [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD)를 구축해봤습니다.
 
 # 🧑‍🏭프로젝트
 ### `2023-06~2023-07` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/b388707e-59d4-4d83-b6cf-bf83fbab1d02" width="65%"><br>
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/afd85c78-3db2-4f34-85b7-e2e04dbc0e4b" width="65%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 기본적인 API 개발
-- 코드 작성 전에 아키텍처를 시각화
 - 분산 시스템, Kafka(로드밸런싱), 비동기 처리, Redis, JWT 등 최대한 많은 트래픽을 처리하기 위해 노력
+- CI/CD로 배포 자동화
 ---
 
 ### `2022-09 ~ 2022-11` [영상 회의](https://github.com/vacu9708/video-conference)
