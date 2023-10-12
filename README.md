@@ -35,7 +35,7 @@
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/afd85c78-3db2-4f34-85b7-e2e04dbc0e4b" width="65%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 기본적인 API 개발
 - 분산 시스템, Kafka(로드밸런싱), 비동기 처리, Redis, JWT 등 최대한 많은 트래픽을 처리하기 위해 노력
-- CI/CD로 배포 자동화
+- CI/CD(AWS EC2 + Jenkins + Docker)로 배포 자동화
 ---
 
 ### `2022-09 ~ 2022-11` [영상 회의](https://github.com/vacu9708/video-conference)
