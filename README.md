@@ -30,12 +30,12 @@
 - AWS EC2 + Jenkins + Docker를 활용해 [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD)를 구축해봤습니다.
 
 # 🧑‍🏭프로젝트
-### `2023-06~2023-07` [마이크로서비스로 구성된 쇼핑몰 서버](https://github.com/vacu9708/Shopping-mall)
+### `2023-06~2023-07` [마이크로서비스로 구성된 서버](https://github.com/vacu9708/Shopping-mall)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/b388707e-59d4-4d83-b6cf-bf83fbab1d02" width="65%"><br>
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/afd85c78-3db2-4f34-85b7-e2e04dbc0e4b" width="65%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 기본적인 API 개발
--	분산 시스템, Kafka, 비동기 처리, Redis등을 이용해 많은 트래픽을 처리하는 방법에 관해 배움
--	아키텍처 시각화에 관해 배움
+-	분산 시스템, Kafka, 비동기 처리, Redis등을 이용해 많은 트래픽을 처리하는 방법에 관해 학습
+-	아키텍처 시각화에 관해 학습
 ---
 
 ### `2022-09 ~ 2022-11` [영상 회의](https://github.com/vacu9708/video-conference)
