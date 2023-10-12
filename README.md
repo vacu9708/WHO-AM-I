@@ -34,8 +34,8 @@
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/b388707e-59d4-4d83-b6cf-bf83fbab1d02" width="65%"><br>
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/afd85c78-3db2-4f34-85b7-e2e04dbc0e4b" width="65%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 기본적인 API 개발
-- 분산 시스템, Kafka(로드밸런싱), 비동기 처리, Redis, JWT 등 최대한 많은 트래픽을 처리하기 위해 노력
-- CI/CD(AWS EC2 + Jenkins + Docker)로 배포 자동화
+-	분산 시스템, Kafka, 비동기 처리, Redis등을 이용해 많은 트래픽을 처리하는 방법에 관해 배움
+-	아키텍처 시각화에 관해 배움
 ---
 
 ### `2022-09 ~ 2022-11` [영상 회의](https://github.com/vacu9708/video-conference)
@@ -46,8 +46,8 @@
 
 ### `2022-05 ~ 2022-12` [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf" width="70%"><br>
-- Python, Arduino, Raspberry pi 등을 이용해 차를 추적하고 주차정보를 LED 로 보여주는 임베디드 시스템 개발.
-- 주차공간을 찾을 때 낭비되는 시간을 줄이는 것이 목표
+-	주차공간을 찾을 때 낭비되는 시간을 줄이는 것을 목표로 차를 추적하고 주차정보를 LED 로 보여주는 시스템 개발
+-	사용기술: Python, Arduino, Raspberry pi, 딥러닝 등
 ---
 
 ### `2020-05, 2022-02` [기타 튜닝기](https://github.com/vacu9708/Guitar-tuner)
