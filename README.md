@@ -50,7 +50,7 @@
 - 주차공간을 찾을 때 낭비되는 시간을 줄이는 것이 목표
 ---
 
-### `2020-04` [기타 튜닝기](https://github.com/vacu9708/Guitar-tuner)
+### `2020-05, 2022-02` [기타 튜닝기](https://github.com/vacu9708/Guitar-tuner)
 ![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)<br>
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/5a4266c7-eaea-4b97-96ae-4e87b6524b30" width="60%"><br>
 - (Arduino, Python등 활용)악기의 튜닝을 도와주는 임베디드 시스템 개발
