@@ -35,7 +35,7 @@
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/afd85c78-3db2-4f34-85b7-e2e04dbc0e4b" width="65%"><br>
 - Spring을 기반으로 쇼핑몰에 필요한 기본적인 API 개발
 -	분산 시스템, Kafka, 비동기 처리, Redis등을 이용해 많은 트래픽을 처리하는 방법에 관해 학습
--	아키텍처 시각화에 관해 학습
+-	아키텍처 시각화
 ---
 
 ### `2022-09 ~ 2022-11` [영상 회의](https://github.com/vacu9708/video-conference)
