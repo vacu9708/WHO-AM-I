@@ -30,9 +30,7 @@
 - C/C++, winAPI 사용
 ### [간단한](https://github.com/vacu9708/Red-light-green-light) [게임](https://github.com/vacu9708/Dodge-pieces-of-poop) `2021/10~2021/11`
 - C/C++ 사용
-### [새 정보 알리미](https://github.com/vacu9708/Information_notifier) `2022/06~2022/07`
-<img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/4efa38a6-52f3-44a1-b0a0-bc1e4a9b369a" width="60%"><br>
-- 친구의 요청과 피드백을 받아 지정한 웹 페이지의 업데이트 내용을 알려주는 프로그램
+### [새 정보 알리미](https://github.com/vacu9708/Information_notifier) `2022/06~2발
 - Python selenium, C#, 프로세스간 통신 등 사용
 ### [영상 회의](https://github.com/vacu9708/video-conference) `2022/09~2022/10`
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="60%"><br>
