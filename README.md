@@ -42,7 +42,7 @@
 - [공부 기록(알고리즘, 운영체제, 네트워크 등)](https://github.com/vacu9708/Fundamental-knowledge)
 - C/C++ (구조체, 포인터, 비트연산자 등)
 - [자료구조들](https://github.com/vacu9708/Data-structure)을 C++와 Python을 이용해서 구현하였음.
-- [Race condition과 공유 메모리의 동기화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization) 및 [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming)에 대해 공부했고 Spring Webflux와 Javascript async-await를 활용해서 비동기 프로그래밍을 해봤으며 동시 이메일 전송에 thread pool을 사용해 thread overhead를 줄여봤음.
+- [Race condition과 공유 메모리의 동기화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization) 및 [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming)에 대해 공부했고 비동기 프로그래밍을 해봤으며 동시 이메일 전송에 thread pool을 사용해 thread overhead를 줄여봤음.
 - clone, pull, push, reset 등 [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git)을 활용해봤고 branch를 나누고 pull request와 merge를 이용해 개발해봤음
 - [Object Oriented Programming의 개념 및 좋은 설계](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Object%20Oriented%20Programming)에 관해 공부하였음
 - [Aspect Oriented Programming](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming) 필요한 상황에 대해 공부했고 활용해봤음
