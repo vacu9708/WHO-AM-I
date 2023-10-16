@@ -49,7 +49,7 @@
 - [Object Oriented Programming의 개념 및 좋은 설계](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Object%20Oriented%20Programming)에 관해 공부하였음
 - [Aspect Oriented Programming](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming) 활용
 - [테스트 코드](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Testing) 작성
-- [Docker와 docker-compose](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Containerization)를 활용해봤음
+- [Docker와 docker-compose](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Containerization)
 ### 데이터베이스
 - [정규화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) 및 [인덱싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing)을 고려해 DB 테이블 설계
 - [트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction)을 사용해서 데이터의 일관성 지키기, 마이크로서비스들 간의 [분산 트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Saga%20pattern)을 구현
@@ -61,6 +61,6 @@
 - [운영체제 소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))을 활용해 프로세스간 통신, [영상 회의](https://github.com/vacu9708/video-conference)등을 개발
 - [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)을 활용해서 JWT 폐기, [초당 요청횟수 제한](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting) 등을 개발
 - decoupled 처리로 서버 부하를 분산하기 위해 [Kafka](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))를 활용해서 이메일 담당 마이크로서비스를 개발했고 partition을 나누고 consumer group을 설정해 [로드밸런싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Service%20discovery%2C%20Load%20balancing) 적용
-- [마이크로서비스의 이론, 장단점 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Concepts)을 공부했고 구현해봤으며 Circuit breaker로 서버 장애의 전파를 방지해봤음
+- [마이크로서비스의 이론, 장단점 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Concepts)을 공부했고 구현해봤으며 Circuit breaker로 서버 장애의 전파를 방지
 - http의 문제점을 이해하고 [https](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Security/Encryption) 서버 구축
 - AWS EC2 + Jenkins + Docker를 활용해 [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD) 구축
