@@ -7,7 +7,7 @@
 ### [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV) `2022/05~2022/12`
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf" width="60%"><br>
 -	주차공간을 찾을 때 낭비되는 시간을 줄이는 것을 목표로 차를 추적하고 주차정보를 LED 로 보여주는 시스템 개발
--	사용기술: Python, Arduino, Raspberry pi, 딥러닝 등
+-	사용기술: Python, Arduino, Raspberry pi, 머신비전 등
 - 🥇`2022.01.20` 인천대학교 LINC 3.0 사업단 [2022 LINC3.0 캡스톤디자인 경진대회]
   - "옥내 주차장 주차면 입출차 예측 알림등 시스템", **대상**
 
