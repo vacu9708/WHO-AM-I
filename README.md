@@ -28,7 +28,7 @@
 ### [게임 메모리 해킹](https://github.com/vacu9708/hacking) `2023/01`
 - [메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)가 수동이라는 특징을 활용해 게임 메모리 조작
 - C/C++, winAPI 사용
-### [간단한](https://github.com/vacu9708/Red-light-green-light) [게임](https://github.com/vacu9708/Dodge-pieces-of-poop) `2021/10~2021/11`
+### [게임](https://github.com/vacu9708/Red-light-green-light) [제작](https://github.com/vacu9708/Dodge-pieces-of-poop) `2021/10~2021/11`
 - C/C++ 사용
 ### [새 정보 알리미](https://github.com/vacu9708/Information_notifier) `2022/06~2022/07`
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/4efa38a6-52f3-44a1-b0a0-bc1e4a9b369a" width="60%"><br>
