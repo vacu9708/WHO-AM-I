@@ -4,7 +4,7 @@
 - I believe it's important to reflect with the thought "I might have been wrong" when receiving feedback.
 
 # 🧑‍🏭Projects
-### [Parking lot information notiffier](https://github.com/vacu9708/Smart-CCTV) `/05/2022~12/2022`
+### [Parking lot information notiffier](https://github.com/vacu9708/Smart-CCTV) `05/2022~12/2022`
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf" width="60%"><br>
 - Developed a system to track cars and display parking information on LEDs, aimed at reducing the time wasted in finding parking spaces.
 - Technologies Used: Python, Arduino, Raspberry Pi, Machine Vision, etc.
