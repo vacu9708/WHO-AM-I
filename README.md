@@ -23,7 +23,7 @@
 ### [게임 메모리 해킹](https://github.com/vacu9708/hacking) `2023/01`
 - [메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)가 수동이라는 특징을 활용해 게임 메모리 조작
 - C/C++, winAPI 사용
-### [게임](https://github.com/vacu9708/Red-light-green-light) [제작](https://github.com/vacu9708/Dodge-pieces-of-poop) `2021/10~2021/11`
+### [게임](https://github.com/vacu9708/Red-light-green-light) [만들기](https://github.com/vacu9708/Dodge-pieces-of-poop) `2021/10~2021/11`
 - C/C++ 사용
 ### [새 정보 알리미](https://github.com/vacu9708/Information_notifier) `2022/06~2022/07`
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/4efa38a6-52f3-44a1-b0a0-bc1e4a9b369a" width="60%"><br>
@@ -35,25 +35,20 @@
 ---
 
 # 🌠기술
-- [공부 기록(알고리즘, 운영체제, 네트워크 등)](https://github.com/vacu9708/Fundamental-knowledge)
-- C/C++ (구조체, 포인터, 비트연산자 등)
-- [자료구조들](https://github.com/vacu9708/Data-structure)을 C++와 Python을 이용해서 구현하였음.
-- [Race condition과 공유 메모리의 동기화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system/Process%20synchronization)에 관해 공부했고 [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming)을 해봤음. 동시 이메일 전송에 thread pool을 사용해 thread overhead를 줄여봤음.
-- clone, pull, push, reset, pull request등 [Git](https://github.com/vacu9708/Tools-etc/tree/main/Git)
-- [Object Oriented Programming의 개념 및 좋은 설계](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Object%20Oriented%20Programming)
-- [Aspect Oriented Programming](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Aspect%20Orient%20Programming)
-- [테스트 코드](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Testing)
-### 데이터베이스
-- [정규화](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Normalization) 및 [인덱싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Indexing)을 고려해 DB 테이블 설계
-- [트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Transaction)을 사용해서 데이터의 integrity 지키기, 마이크로서비스들 간의 [분산 트랜잭션](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Saga%20pattern)을 구현
-- [SQL](https://github.com/vacu9708/Algorithm/tree/main/Algorithm%20traning/SQL%20training)
-- [UUID와 자동 증가 key의 장단점](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/UUID%20VS%20Sequential%20as%20a%20primary%20key)
+- C/C++, Python, Java, Javascript
+- [자료구조](https://github.com/vacu9708/Data-structure)
+- [운영체제](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system)
+- [소프트웨어 공학](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Software%20engineering)
+- [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming)
+- [소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))
+- [컴퓨터 공부 기록](https://github.com/vacu9708/Fundamental-knowledge)
+
 ### 서버 개발
-- [운영체제 소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))을 활용해 프로세스간 통신, [영상 회의](https://github.com/vacu9708/video-conference)등을 개발
-- AWS EC2 + Jenkins + [Docker](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/Containerization)를 활용해 [CI/CD](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/DevOps/CI%2CCD) 구축
-- [JWT와 Session 로그인 이론, 장단점, 사용법 등](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/JWT%2C%20session)을 공부했고 로그인 구현에 활용
+- Spring, NodeJS
+- [데이터베이스](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database)
+- [JWT와 Session](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/JWT%2C%20session)
 - [OAuth](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/OAuth) API 공식 문서를 읽고 네이버로 로그인, 구글로 로그인 구현
-- [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)을 활용해서 JWT 폐기, [초당 요청횟수 제한](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting) 등을 개발
+- [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)을 활용해서 JWT 폐기, [Rate limit](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting) 등을 개발
+- [Microservices](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture)
+- [https](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Security/Encryption)
 - 서버 부하를 분산하기 위해 [Kafka](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))를 활용해서 이메일 담당 마이크로서비스를 개발했고 partition을 나누고 consumer group을 설정해 [로드밸런싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Service%20discovery%2C%20Load%20balancing) 적용
-- [마이크로서비스](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture/Concepts)에서 Circuit breaker로 서버 장애의 전파를 방지
-- http의 문제점을 해결하기 위해 [https](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Security/Encryption) 서버 구축
