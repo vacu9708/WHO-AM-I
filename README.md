@@ -35,17 +35,18 @@
 ---
 
 # 🌠기술
-- C/C++, Python, Java, Javascript
-- [자료구조](https://github.com/vacu9708/Data-structure)
+C/C++, Python, Java, Javascript<br>
+[공부기록 링크(밑의 내용 및 다른 공부내용 포함)](https://github.com/vacu9708/Fundamental-knowledge)
+- [자료구조](https://github.com/vacu9708/Data-structure), [알고리즘](https://github.com/vacu9708/Algorithm)
 - [운영체제](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system)
 - [소프트웨어 공학](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Software%20engineering)
 - [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming)
 - [소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))
-- [컴퓨터 공부 기록](https://github.com/vacu9708/Fundamental-knowledge)
+- [UDP, TCP](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/UDP%2C%20TCP)
 
 ### 서버 개발
-- Spring, NodeJS
-- [데이터베이스](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database)
+Spring, NodeJS
+- [Database](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database)
 - [JWT와 Session](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/JWT%2C%20session)
 - [OAuth](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/OAuth) API 공식 문서를 읽고 네이버로 로그인, 구글로 로그인 구현
 - [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)을 활용해서 JWT 폐기, [Rate limit](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting) 등을 개발
