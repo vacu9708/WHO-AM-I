@@ -38,17 +38,16 @@
 ---
 
 # 🌠기술
-많이 써본 것들: C/C++, Python, Linux<br>
+많이 써본 것들: C/C++, Python, Linux. Agile(Jira, Confluene)<br>
 [공부기록 링크(밑의 내용 등을 포함)](https://github.com/vacu9708/Fundamental-knowledge)
 - [자료구조](https://github.com/vacu9708/Data-structure), [알고리즘](https://github.com/vacu9708/Algorithm)
 - [운영체제](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system). [컴퓨터 구조](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Computer%20architecture)
 - [소프트웨어 공학](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Software%20engineering)
-- [동시성 프로그래밍](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Development%20methodology%20and%20paradigm/Concurrent%20programming)
-- [소켓, 웹소켓](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Socket%20(websocket))
-- [UDP, TCP](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/UDP%2C%20TCP)
+- [etc](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc)
 
 ### 서버 개발
-Spring, NodeJS
+많이 써본 것들: Spring, NodeJS
+- [Web 공부기록 링크(밑의 내용 등을 포함)](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development)
 - [Database](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database)
 - [JWT와 Session](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/JWT%2C%20session)
 - [OAuth](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/OAuth) API 공식 문서를 읽고 네이버로 로그인, 구글로 로그인 구현
