@@ -39,7 +39,7 @@
 
 # 🌠기술
 많이 써본 것들: C/C++, Python, Linux. Agile(Jira, Confluene)<br>
-[공부기록 링크(밑의 내용 등을 포함)](https://github.com/vacu9708/Fundamental-knowledge)
+- [공부기록 링크(밑의 내용 등을 포함)](https://github.com/vacu9708/Fundamental-knowledge)
 - [자료구조](https://github.com/vacu9708/Data-structure), [알고리즘](https://github.com/vacu9708/Algorithm)
 - [운영체제](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system). [컴퓨터 구조](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Computer%20architecture)
 - [소프트웨어 공학](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Software%20engineering)
