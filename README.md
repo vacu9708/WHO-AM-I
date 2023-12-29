@@ -1,5 +1,6 @@
 # 🔆경력
 - [CoAsia group,](http://www.coasia.com/) [Nexell](http://www.coasianexell.com/) `12/2023 ~ Present`
+  - [일기](https://github.com/vacu9708/WHO-AM-I/tree/main/Diary%20at%20work)
 
 # 🧑‍🏭프로젝트
 ### [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV) `2022/05~2022/12`
