@@ -9,3 +9,5 @@
 - Attended a seminar of the Computer architecture
 - Studied the Binary tree
 - Studied the Expression tree
+## 1.5
+- Attended a seminar of the hardware explanation of the company's SoC
