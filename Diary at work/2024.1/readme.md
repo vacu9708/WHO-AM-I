@@ -11,3 +11,7 @@
 - Studied the Expression tree
 ## 1.5
 - Attended a seminar of the hardware explanation of the company's SoC
+- Studied Union find(disjoint set)
+## 1.8
+- Started studying ARM architecture(Introduction to the ARM Architecture)
+- Studied Bubble sort
