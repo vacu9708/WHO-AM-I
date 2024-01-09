@@ -15,3 +15,6 @@
 ## 1.8
 - Started studying ARM architecture(Introduction to the ARM Architecture)
 - Studied Bubble sort
+## 1.9
+- Studied Insertion sort
+- Organized ARM architecture(Programmers' Model)
