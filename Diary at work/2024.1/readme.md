@@ -17,7 +17,7 @@
 - Studied Bubble sort
 ## 1.9
 - Studied Insertion sort
-- Organized Programmers' Model in ARM
+- Studied Programmers' Model in ARM
 ## 1.10
 - Finished organizing Programmers' Model in ARM
 - Started studying Virtual Memory System Architecture in ARM
