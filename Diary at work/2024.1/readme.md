@@ -24,3 +24,5 @@
 ## 1.11
 - Studied Virtual Memory System Architecture in ARM
 - Studied Quick sort
+## 1.12
+- Finished organizing the ARM architecture for the upcoming seminar
