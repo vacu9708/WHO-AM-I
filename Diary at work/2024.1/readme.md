@@ -26,3 +26,9 @@
 - Studied Quick sort
 ## 1.12
 - Finished organizing the ARM architecture for the upcoming seminar
+## 1.15
+- Gave a presentation on the ARM architecture
+- Studied binary search
+- Studied APB bus
+## 1.16
+- Studied APB bus
