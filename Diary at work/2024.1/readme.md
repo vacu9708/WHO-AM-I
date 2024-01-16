@@ -34,4 +34,5 @@
 - Studied APB bus
 >My manager said I have got through the hard part and the next parts I'm going to study will be easier.
 ## 1.16
-- Studied APB bus
+- Finished studying APB bus
+- Studied AXI bus
