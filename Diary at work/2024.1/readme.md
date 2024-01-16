@@ -1,8 +1,9 @@
 ## 1.2
 - Finished studying Circular queue
 - Studied computer architecture(CPU, cache memory, peripherals, etc) and started studying OS
+>I think this will be a good opportunity to review what I studied in college.
 ## 1.3
-- A new employee arrived and I helped her
+- A new employee entered my team and I helped her
 - Studied the Tree data structure
 - Finished organizing Computer architecture
 ## 1.4
@@ -15,6 +16,7 @@
 ## 1.8
 - Started studying ARM architecture(Introduction to the ARM Architecture)
 - Studied Bubble sort
+>I was overwhemled by the tremendous amount of the ARM reference manual
 ## 1.9
 - Studied Insertion sort
 - Studied Programmers' Model in ARM
@@ -30,5 +32,6 @@
 - Gave a presentation on the ARM architecture
 - Studied binary search
 - Studied APB bus
+>My manager said I have got through the hard part and the next parts I'm going to study will be easier.
 ## 1.16
 - Studied APB bus
