@@ -40,3 +40,7 @@
 - Took a course in Postfix notation and the Software Requirements Specification
 - Studied Circular queue
 - Studied the computer architecture(Instruction)
+
+### This month
+>I am very happy that this company seems much better than I expected.<br>
+>I would like to try my best to gain great work experiences at this company.
