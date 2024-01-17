@@ -36,3 +36,6 @@
 ## 1.16
 - Finished studying APB bus
 - Studied AXI bus
+## 1.17
+- Studied AXI bus
+- Studied Binary search tree
