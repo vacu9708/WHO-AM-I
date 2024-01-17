@@ -39,3 +39,4 @@
 ## 1.17
 - Studied AXI bus
 - Studied Binary search tree
+>The AXI bus specification has too much content. But I think I am learning as much.
