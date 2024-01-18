@@ -40,3 +40,6 @@
 - Studied AXI bus
 - Studied Binary search tree
 >The AXI bus specification has too much content. But I think I am learning as much.
+# 1.18
+- Studied AXI bus
+- Had a company dinner
