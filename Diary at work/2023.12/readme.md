@@ -41,6 +41,5 @@
 - Studied Circular queue
 - Studied the computer architecture(Instruction)
 
-### This month
->I am very happy that this company seems much better than I expected.<br>
->I would like to try my best to gain great work experiences at this company.
+### What I felt this month
+>I could learn how a company works and how I should behave at my first company here
