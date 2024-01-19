@@ -45,4 +45,8 @@
 - Had a company dinner
 # 1.19
 - Gave a presentation on the AXI bus
->I learned how important it is to explain **based on visualization**.
+>I learned how important it is to explain based on visualization.
+
+# What I felt this month
+- Visualization is everything when explaining something
+- Software engineering like test code, Software Requirements Specifications is important when dealing with real work.
