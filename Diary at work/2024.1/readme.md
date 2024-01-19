@@ -43,3 +43,5 @@
 # 1.18
 - Studied AXI bus
 - Had a company dinner
+# 1.19
+- Gave a presentation on the AXI bus
