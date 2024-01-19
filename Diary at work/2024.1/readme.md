@@ -48,5 +48,6 @@
 >I learned how important it is to explain based on visualization.
 
 # What I felt this month
-- Visualization is everything when explaining something
-- Software engineering like test code, Software Requirements Specifications is important when dealing with real work.
+- **Visualization** is everything when explaining something.
+- **Software engineering** like test code, Software Requirements Specifications is important when dealing with real work.
+- **Data** is compelling evidence when convincing someone.
