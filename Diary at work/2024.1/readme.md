@@ -45,3 +45,4 @@
 - Had a company dinner
 # 1.19
 - Gave a presentation on the AXI bus
+>I learned how important it is to explain **based on visualization**.
