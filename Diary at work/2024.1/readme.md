@@ -47,7 +47,7 @@
 - Gave a presentation on the AXI bus
 >I learned how important it is to explain based on visualization.
 ## 1.20
-- Started studying Yocto
+- Started studying Yocto(How to build qemu)
 - Studied Red black tree
 
 # What I felt this month
