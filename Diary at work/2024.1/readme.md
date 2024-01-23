@@ -46,11 +46,14 @@
 ## 1.19
 - Gave a presentation on the AXI bus
 >I learned how important it is to explain based on visualization.
-## 1.20
-- Started studying Yocto(How to build qemu)
-- Studied Red black tree
+## 1.22
+- Started studying Yocto(How to build and run the built image using poky, bitbake, and qemu)
+- Studied Red-Black tree
+## 1.23
+- Studied Red-Black tree
+- Studied Yocto(About the yocto recipe)
 
-# What I felt this month
+# Ending this month
 - **Visualization** is everything when explaining something.
 - **Software engineering** like test code, Software Requirements Specifications is important when dealing with real work.
 - **Data** is compelling evidence when convincing someone.
