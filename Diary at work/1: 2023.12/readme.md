@@ -1,3 +1,7 @@
+# Summary of this month
+>I was nervous about my first work experience but it was better than I thought.<br>
+>I could learn how a company works and how I should behave at a company.
+
 ## 12.18
 - Listened to the explanation about OJT curriculum
 - Set my computer and installed Ubuntu in it
@@ -40,7 +44,3 @@
 - Took a course in Postfix notation and the Software Requirements Specification
 - Studied Circular queue
 - Studied the computer architecture(Instruction)
-
-### Summary of this month
->I was nervous about my first work experience but it was better than I thought.<br>
->I could learn how a company works and how I should behave at a company.
