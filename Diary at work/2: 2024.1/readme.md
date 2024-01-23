@@ -1,3 +1,9 @@
+# Summary of this month
+- **Visualization** is everything when explaining something.
+- **Software engineering** like test code, Software Requirements Specifications is important when dealing with real work.
+- **Data** is compelling evidence when convincing someone.
+- **Data structure and algorithm**: Learned some new data structures and algorithms and reviewed those I studied.
+
 ## 1.2
 - Finished studying Circular queue
 - Studied computer architecture(CPU, cache memory, peripherals, etc) and started studying OS
@@ -52,9 +58,3 @@
 ## 1.23
 - Studied Red-Black tree
 - Studied Yocto(About the yocto recipe)
-
-# Summary of this month
-- **Visualization** is everything when explaining something.
-- **Software engineering** like test code, Software Requirements Specifications is important when dealing with real work.
-- **Data** is compelling evidence when convincing someone.
-- **Data structure and algorithm**: Learned some new data structures and algorithms and reviewed those I studied.
