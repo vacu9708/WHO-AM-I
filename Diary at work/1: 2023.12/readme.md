@@ -41,5 +41,6 @@
 - Studied Circular queue
 - Studied the computer architecture(Instruction)
 
-### What I felt this month
->I could learn how a company works and how I should behave at my first company here
+### Summary of this month
+>I was nervous about my first work experience but it was better than I thought.<br>
+>I could learn how a company works and how I should behave at a company.
