@@ -3,18 +3,19 @@
   - [일기](https://github.com/vacu9708/WHO-AM-I/tree/main/Diary%20at%20work)
 
 # 🧰Skills
-C/C++, Python, Linux, Agile(Jira, Confluene)<br>
+- **Programming language**: C/C++, Python, Linux
 ## [Study records](https://github.com/vacu9708/Study-records)
 ### [Computer science](https://github.com/vacu9708/Study-records/tree/main/Computer%20science)
 - Data structure, Algorithm
 - Operating system, Computer architecture
-- Software engineering
+- Software engineering(Agile->Jira/Confluene)
 - Database
 - etc
 ### [Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
 - ARM architecture
-- Bus
+- Bus(APB, AXI)
 - Yocto
+- etc
 
 ### [Web development](https://github.com/vacu9708/Study-records/tree/main/Web%20development)
 - Spring, NodeJS
@@ -24,6 +25,7 @@ C/C++, Python, Linux, Agile(Jira, Confluene)<br>
 - Microservices
 - https
 - Kafka(load balancing)
+- etc
 
 # 🌠Projects
 ### [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV) `2022/05~2022/12`
