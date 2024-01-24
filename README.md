@@ -25,7 +25,7 @@
 ---
 
 ### [게임 메모리 해킹](https://github.com/vacu9708/hacking) `2023/01`
-- [메모리 관리](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc/Automatic%20memory%20management)가 수동이라는 특징을 활용해 게임 메모리 조작
+- [메모리 관리](https://github.com/vacu9708/Study-records/tree/main/Etc/Automatic%20memory%20management)가 수동이라는 특징을 활용해 게임 메모리 조작
 - C/C++, winAPI 사용
 ### [게임](https://github.com/vacu9708/Red-light-green-light) [만들기](https://github.com/vacu9708/Dodge-pieces-of-poop) `2021/10~2021/11`
 - C/C++ 사용
@@ -39,20 +39,24 @@
 ---
 
 # 🌠기술
-C/C++, Python, Linux. Agile(Jira, Confluene)<br>
-- [공부기록 링크(밑의 내용 등을 포함)](https://github.com/vacu9708/Fundamental-knowledge)
-- [자료구조](https://github.com/vacu9708/Data-structure), [알고리즘](https://github.com/vacu9708/Algorithm)
-- [운영체제](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Operating%20system). [컴퓨터 구조](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Computer%20architecture)
-- [소프트웨어 공학](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Software%20engineering)
-- [etc](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Etc)
+C/C++, Python, Linux, Agile(Jira, Confluene)<br>
+## [Study records](https://github.com/vacu9708/Study-records)
+### [Computer science](https://github.com/vacu9708/Study-records/tree/main/Computer%20science)
+- Data structure, Algorithm
+- Operating system, Computer architecture
+- Software engineering
+- Database
+- etc
+### [Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
+- ARM architecture
+- Bus
+- Yocto
 
-### 서버 개발
-많이 써본 것들: Spring, NodeJS
-- [Web 공부기록 링크(밑의 내용 등을 포함)](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development)
-- [Database](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database)
-- [JWT와 Session](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/JWT%2C%20session)
-- [OAuth](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Auth/OAuth) API 공식 문서를 읽고 네이버로 로그인, 구글로 로그인 구현
-- [Redis](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Database/Redis)을 활용해서 JWT 폐기, [Rate limit](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Rate%20limiting) 등을 개발
-- [Microservices](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Microservices%20architecture)
-- [https](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Security/Encryption)
-- 서버 부하를 분산하기 위해 [Kafka](https://github.com/vacu9708/Tools-etc/tree/main/Messaging%20system(Kafka))를 활용해서 이메일 담당 마이크로서비스를 개발했고 partition을 나누고 consumer group을 설정해 [로드밸런싱](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Web%20development/Server-side/Service%20discovery%2C%20Load%20balancing) 적용
+### [Web development](https://github.com/vacu9708/Study-records/tree/main/Web%20development)
+- Spring, NodeJS
+- JWT, Session
+- OAuth(google, login)
+- Redis
+- Microservices
+- https
+- Kafka(load balancing)
