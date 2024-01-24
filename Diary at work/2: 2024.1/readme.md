@@ -3,7 +3,7 @@
 - **Software engineering** like test code, Software Requirements Specifications is important when dealing with real work.
 - **Data** is compelling evidence when convincing someone.
 - **Data structure and algorithm**: Studied some new data structures and algorithms and reviewed those I studied.
-- Studied **buses(API, AXI)**, **ARM** architecture
+- Studied **buses(API, AXI)**, **ARM architecture**, **Yocto**
 
 ## 1.2
 - Finished studying Circular queue
