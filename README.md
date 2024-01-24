@@ -1,8 +1,31 @@
-# 🔆경력
+# 👨‍💼Work experience
 - [CoAsia group,](http://www.coasia.com/) [Nexell](http://www.coasianexell.com/) `12/2023 ~ Present`
   - [일기](https://github.com/vacu9708/WHO-AM-I/tree/main/Diary%20at%20work)
 
-# 🧑‍🏭프로젝트
+# 🧰Skills
+C/C++, Python, Linux, Agile(Jira, Confluene)<br>
+## [Study records](https://github.com/vacu9708/Study-records)
+### [Computer science](https://github.com/vacu9708/Study-records/tree/main/Computer%20science)
+- Data structure, Algorithm
+- Operating system, Computer architecture
+- Software engineering
+- Database
+- etc
+### [Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
+- ARM architecture
+- Bus
+- Yocto
+
+### [Web development](https://github.com/vacu9708/Study-records/tree/main/Web%20development)
+- Spring, NodeJS
+- JWT, Session
+- OAuth(google, login)
+- Redis
+- Microservices
+- https
+- Kafka(load balancing)
+
+# 🌠Projects
 ### [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV) `2022/05~2022/12`
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf" width="60%"><br>
 -	주차공간을 찾을 때 낭비되는 시간을 줄이는 것을 목표로 차를 추적하고 주차정보를 LED 로 보여주는 시스템 개발
@@ -37,26 +60,3 @@
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="60%"><br>
 - Javascript와 webRTC를 활용해 3명 이상 인원이 채팅 및 영상 통화를 할 수 있는 웹 페이지 개발
 ---
-
-# 🌠기술
-C/C++, Python, Linux, Agile(Jira, Confluene)<br>
-## [Study records](https://github.com/vacu9708/Study-records)
-### [Computer science](https://github.com/vacu9708/Study-records/tree/main/Computer%20science)
-- Data structure, Algorithm
-- Operating system, Computer architecture
-- Software engineering
-- Database
-- etc
-### [Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
-- ARM architecture
-- Bus
-- Yocto
-
-### [Web development](https://github.com/vacu9708/Study-records/tree/main/Web%20development)
-- Spring, NodeJS
-- JWT, Session
-- OAuth(google, login)
-- Redis
-- Microservices
-- https
-- Kafka(load balancing)
