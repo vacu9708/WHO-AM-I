@@ -2,7 +2,8 @@
 - **Visualization** is everything to understand and explain something.(Think about my listeners)
 - **Software engineering** like test code, Software Requirements Specifications is important when dealing with real work.
 - **Data** is compelling evidence when convincing someone.
-- **Data structure and algorithm**: Learned some new data structures and algorithms and reviewed those I studied.
+- **Data structure and algorithm**: Studied some new data structures and algorithms and reviewed those I studied.
+- Studied **buses(API, AXI)**, **ARM** architecture
 
 ## 1.2
 - Finished studying Circular queue
@@ -58,3 +59,6 @@
 ## 1.23
 - Studied Red-Black tree
 - Studied Yocto(About the yocto recipe)
+## 1.24
+- Studied Red-Black tree
+- Studied Yocto(How to build and run an image that prints Hello World!)
