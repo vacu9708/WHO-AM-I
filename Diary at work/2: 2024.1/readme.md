@@ -3,7 +3,8 @@
 - **Software engineering** like test code, Software Requirements Specifications is important when dealing with real work.
 - **Data** is compelling evidence when convincing someone.
 - **Data structure and algorithm**: Studied some new data structures and algorithms and reviewed those I studied.
-- Studied **buses(API, AXI)**, **ARM architecture**, **Yocto**
+- Studied some low-level knowledge like **buses(API, AXI)**, **ARM architecture**
+- Studied how to build custom linux systems using **Yocto**
 
 ## 1.2
 - Finished studying Circular queue
@@ -54,11 +55,16 @@
 - Gave a presentation on the AXI bus
 >I learned how important it is to explain based on visualization.
 ## 1.22
-- Started studying Yocto(How to build and run the built image using poky, bitbake, and qemu)
 - Studied Red-Black tree
+- Started studying Yocto(How to build and run the built image using poky, bitbake, and qemu)
 ## 1.23
 - Studied Red-Black tree
 - Studied Yocto(About the yocto recipe)
 ## 1.24
 - Studied Red-Black tree
 - Studied Yocto(How to build and run an image that prints Hello World!)
+## 1.25
+- Studied Red-Black tree
+- Built tensorflow into my linux BSP using Yocto
+## 1.26
+- Studied Priority queue
