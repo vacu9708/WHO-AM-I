@@ -1,5 +1,5 @@
 # Summary of this month
-- **Visualization** is everything to understand and explain something.(Think about my listeners)
+- **Visualization** is everything to understand and explain something.
 - **Software engineering** like test code, Software Requirements Specifications is important when dealing with real work.
 - **Data** is compelling evidence when convincing someone.
 - **Data structure and algorithm**: Studied some new data structures and algorithms and reviewed those I studied.
