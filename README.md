@@ -8,7 +8,7 @@
 ### [Computer science](https://github.com/vacu9708/Study-records/tree/main/Computer%20science)
 - Data structure, Algorithm
 - Operating system, Computer architecture
-- Software engineering(Agile->Jira/Confluene)
+- Software engineering
 - Database
 - etc
 ### [Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
