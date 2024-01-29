@@ -5,6 +5,7 @@
 - **Data structure and algorithm**: Studied some new data structures and algorithms and reviewed those I studied.
 - Studied some low-level knowledge like **buses(API, AXI)**, **ARM architecture**
 - Studied how to build custom linux systems using **Yocto**
+- Studied **Docker** and **Source Code Management**
 
 ## 1.2
 - Finished studying Circular queue
@@ -68,3 +69,5 @@
 - Built tensorflow into my linux BSP using Yocto
 ## 1.26
 - Studied Priority queue
+## 1.29
+- Studied Source Code Management, Docker
