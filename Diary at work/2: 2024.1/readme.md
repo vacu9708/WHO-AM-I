@@ -66,7 +66,7 @@
 - Studied Yocto(How to build and run an image that prints Hello World!)
 ## 1.25
 - Studied Red-Black tree
-- Built tensorflow into my linux BSP using Yocto
+- Built tensorflow into my BSP using Yocto
 ## 1.26
 - Studied Priority queue
 ## 1.29
