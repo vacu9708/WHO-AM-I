@@ -9,7 +9,7 @@
 includes:
 - Data structure, Algorithm
 - Operating system, Computer architecture
-- Software engineering(git, docker, CI/CD, UML, Testing, etc)
+- Software engineering(Git, Docker, CI/CD, UML, Testing, etc)
 - Database(SQL)
 - etc
 ### [Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
