@@ -6,20 +6,22 @@
 - **Basics**: C/C++, Python, Linux, Jira/Confluence
 ## [Study records](https://github.com/vacu9708/Study-records)
 ### [Computer science](https://github.com/vacu9708/Study-records/tree/main/Computer%20science)
+includes:
 - Data structure, Algorithm
 - Operating system, Computer architecture
-- Software engineering
+- Software engineering(git, docker, CI/CD, UML, Testing, etc)
 - Database
 - etc
 ### [Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
+includes:
 - ARM architecture
 - Bus(APB, AXI)
 - Yocto BSP
-- u-boot
-- kernel
+- Device driver
 - etc
 
 ### [Web development](https://github.com/vacu9708/Study-records/tree/main/Web%20development)
+includes:
 - Spring, NodeJS
 - JWT, Session
 - OAuth(google, login)
