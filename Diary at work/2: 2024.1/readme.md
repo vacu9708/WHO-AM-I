@@ -6,7 +6,7 @@
 - Studied some low-level knowledge like **buses(API, AXI)**, **ARM architecture**
 - Studied how to build custom linux systems using **Yocto**
 - Studied **Docker** and **Source Code Management**
-- Studied U-boot
+- Studied **U-boot**
 
 ## 1.2
 - Finished studying Circular queue
@@ -73,4 +73,5 @@
 ## 1.29
 - Studied Source Code Management, Docker
 ## 1.30
-- Studied U-boot
+- Studied U-boot(menuconfig, driver model, DTS)
+- Studied Priority queue(when the same number is constantly added to the priority queue)
