@@ -1,5 +1,5 @@
 # 👨‍💼Work experience
-- [CoAsia group,](http://www.coasia.com/) [Nexell](http://www.coasianexell.com/) `12/2023 ~ Present`
+- [CoAsia](http://www.coasia.com/) `12/2023 ~ Present`
   - [Diary](https://github.com/vacu9708/WHO-AM-I/tree/main/Diary%20at%20work)
 
 # 🧰Skills
