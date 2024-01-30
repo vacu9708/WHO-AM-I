@@ -3,14 +3,14 @@
   - [Diary](https://github.com/vacu9708/WHO-AM-I/tree/main/Diary%20at%20work)
 
 # 🧰Skills
-- **Basics**: C/C++, Python, Linux, Jira/Confluence
+- C/C++, Python, Linux, Jira/Confluence
 ## [Study records](https://github.com/vacu9708/Study-records)
 ### [Computer science](https://github.com/vacu9708/Study-records/tree/main/Computer%20science)
 includes:
 - Data structure, Algorithm
 - Operating system, Computer architecture
 - Software engineering(git, docker, CI/CD, UML, Testing, etc)
-- Database
+- Database(SQL)
 - etc
 ### [Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
 includes:
