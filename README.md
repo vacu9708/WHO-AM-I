@@ -17,6 +17,7 @@ includes:
 - ARM architecture
 - Bus(APB, AXI)
 - Yocto BSP
+- U-boot, Kernel
 - Device driver
 - etc
 
