@@ -73,5 +73,8 @@
 ## 1.29
 - Studied Source Code Management, Docker
 ## 1.30
-- Studied U-boot(menuconfig, driver model, DTS)
+- Studied U-boot(Driver model, Device tree, menuconfig)
 - Studied Priority queue(when the same number is constantly added to the priority queue)
+## 1.31
+- Studied U-boot(Driver model, Device tree, menuconfig)
+- Studied simple hashmap
