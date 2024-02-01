@@ -2,11 +2,11 @@
 - **Visualization** is everything to understand and explain something.
 - **Software engineering** like test code, Software Requirements Specifications is important when dealing with real work.
 - **Data** is compelling evidence when convincing someone.
-- **Data structure and algorithm**: Studied some new data structures and algorithms and reviewed those I studied.
+- Studied some new **data structures and algorithms** and reviewed those I studied.
 - Studied some low-level knowledge like **buses(API, AXI)**, **ARM architecture**
 - Studied how to build custom linux systems using **Yocto**
 - Studied **Docker** and **Source Code Management**
-- Studied **U-boot**
+- Studied **U-boot**, **Kernel**, **Device driver**
 
 ## 1.2
 - Finished studying Circular queue
