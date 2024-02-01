@@ -1,4 +1,4 @@
-# Summary of this month
+## Summary of this month
 - **Visualization** is everything to understand and explain something.
 - **Software engineering** like test code, Software Requirements Specifications is important when dealing with real work.
 - **Data** is compelling evidence when convincing someone.
@@ -6,7 +6,7 @@
 - Studied some low-level knowledge like **buses(API, AXI)**, **ARM architecture**
 - Studied how to build custom linux systems using **Yocto**
 - Studied **Docker** and **Source Code Management**
-- Studied **U-boot**, **Kernel**, **Device driver**
+- Studied **U-boot**
 
 ## 1.2
 - Finished studying Circular queue
