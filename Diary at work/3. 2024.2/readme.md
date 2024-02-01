@@ -3,4 +3,4 @@
 
 ## 2.1
 - Studied hashmap chaining
-- Studied U-boot(U_BOOT_CMD)
+- Studied U-boot(How to add and delete a custom U_BOOT_CMD)
