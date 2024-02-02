@@ -6,3 +6,4 @@
 - Studied U-boot(How to add and delete a custom U_BOOT_CMD, LD script)
 ## 2.2
 - Studied U-boot(LD script)
+- Studied hashmap open addressing
