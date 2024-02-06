@@ -8,4 +8,4 @@
 - Studied U-boot(LD script)
 - Studied hashmap open addressing
 ## 2.5
-- Studied u-boot(Controlling GPIOs in u-boot)
+- Studied u-boot(Controlling GPIOs in u-boot by modifying the u-boot source code)
