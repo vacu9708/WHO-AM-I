@@ -9,5 +9,5 @@
 - Studied hashmap open addressing
 ## 2.5
 - Studied u-boot(Controlling GPIOs in u-boot by modifying the u-boot source code(GPIO device driver))
-## 2.5
+## 2.6
 - Studied u-boot(Controlling GPIOs in u-boot by modifying the u-boot source code(Memory-mapped I/O)
