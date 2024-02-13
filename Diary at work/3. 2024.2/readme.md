@@ -1,3 +1,4 @@
+[Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
 ## Summary of this month
 - Studied **u-boot**
 
