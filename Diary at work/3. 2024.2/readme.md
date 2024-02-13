@@ -1,6 +1,5 @@
-[Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
 ## Summary of this month
-- Studied **u-boot**
+- Studied [**u-boot**](https://github.com/vacu9708/Study-records/tree/main/Embedded_system/u-boot)
 
 ## 2.1
 - Studied hashmap chaining
@@ -17,4 +16,6 @@
 ## 2.7
 - Studied how to build image, zimage, uimage and boot them in the target board
 ## 2.8
+- Studied how to build image, zimage, uimage and boot them in the target board
+## 2.13
 - Built image, zimage, uimage and booted them in the target board
