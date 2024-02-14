@@ -21,3 +21,5 @@
 - Built image, zimage, uimage and booted them in the target board
 ## 2.14
 - Looked into the file system of eMMC and how to flash files contained in .img files using fastboot
+- Tested the speed when icache and dcache are on and off
+- Looked into cache and non-cache parts in the memory map of the target board
