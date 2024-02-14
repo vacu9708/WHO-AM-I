@@ -19,3 +19,5 @@
 - Studied how to build image, zimage, uimage and boot them in the target board
 ## 2.13
 - Built image, zimage, uimage and booted them in the target board
+## 2.14
+- Looked into the file system of eMMC and how to flash files contained in .img files using fastboot
