@@ -23,3 +23,7 @@
 - Looked into the file system of eMMC and how to flash files contained in .img files using fastboot
 - Tested the speed when icache and dcache are on and off
 - Looked into cache and non-cache parts in the memory map of the target board
+# 2.15
+- Wrote device driver code to handle GPIOs(connected to LEDs and button)
+# 2.16
+- Fixed bugs/tested the GPIO device driver
