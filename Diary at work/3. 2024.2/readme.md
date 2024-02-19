@@ -27,3 +27,5 @@
 - Wrote device driver code to handle GPIOs(connected to LEDs and button)
 # 2.16
 - Fixed bugs/tested the GPIO device driver
+# 2.19
+- Wrote test code for the GPIO device driver
