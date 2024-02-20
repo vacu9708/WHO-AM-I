@@ -1,5 +1,6 @@
 ## Summary of this month
 - Studied [**u-boot**](https://github.com/vacu9708/Study-records/tree/main/Embedded_system/u-boot)
+- Studied how to develop device drivers
 
 ## 2.1
 - Studied hashmap chaining
@@ -23,9 +24,9 @@
 - Looked into the file system of eMMC and how to flash files contained in .img files using fastboot
 - Tested the speed when icache and dcache are on and off
 - Looked into cache and non-cache parts in the memory map of the target board
-# 2.15
+## 2.15
 - Wrote device driver code to handle GPIOs(connected to LEDs and button)
-# 2.16
+## 2.16
 - Fixed bugs/tested the GPIO device driver
-# 2.19
+## 2.19
 - Wrote test code for the GPIO device driver
