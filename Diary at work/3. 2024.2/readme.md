@@ -1,6 +1,7 @@
 ## Summary of this month
 - Studied [**u-boot**](https://github.com/vacu9708/Study-records/tree/main/Embedded_system/u-boot)
-- Studied how to develop device drivers
+- Studied device driver
+- Studied [**Linux kernel**](https://github.com/vacu9708/Study-records/tree/main/Embedded_system/Linux%20kernel)
 
 ## 2.1
 - Studied hashmap chaining
@@ -30,3 +31,6 @@
 - Fixed bugs/tested the GPIO device driver
 ## 2.19
 - Wrote test code for the GPIO device driver
+## 2.20
+- Code review for the GPIO device driver
+- Studied linux device driver
