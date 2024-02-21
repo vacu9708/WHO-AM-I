@@ -34,3 +34,6 @@
 ## 2.20
 - Code review for the GPIO device driver
 - Studied linux device driver
+## 2.21
+- Studied linux device driver(char, block, network device / misc, module driver)
+- Loaded a dummy (module) driver to the linux
