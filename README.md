@@ -9,8 +9,9 @@
 includes:
 - Data structure, Algorithm
 - Operating system, Computer architecture
+- Database
+- Network
 - Software engineering(Git, Docker, CI/CD, UML, Testing, etc)
-- Database(SQL)
 ### [Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
 includes:
 - ARM architecture
@@ -52,7 +53,7 @@ includes:
 -	아키텍처 시각화
 ---
 
-### [게임 메모리 해킹](https://github.com/vacu9708/hacking) `2023/01`
+### [메모리 조작](https://github.com/vacu9708/hacking) `2023/01`
 - [메모리 관리](https://github.com/vacu9708/Study-records/tree/main/Etc/Automatic%20memory%20management)가 수동이라는 특징을 활용해 게임 메모리 조작
 - C/C++, winAPI 사용
 ### [게임](https://github.com/vacu9708/Red-light-green-light) [만들기](https://github.com/vacu9708/Dodge-pieces-of-poop) `2021/10~2021/11`
