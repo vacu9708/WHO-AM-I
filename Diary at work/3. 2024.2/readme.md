@@ -2,6 +2,7 @@
 - Studied [**u-boot**](https://github.com/vacu9708/Study-records/tree/main/Embedded_system/u-boot)
 - Studied device driver
 - Studied [**Linux kernel**](https://github.com/vacu9708/Study-records/tree/main/Embedded_system/Linux%20kernel)
+- Write document that readers don't need to ask about
 
 ## 2.1
 - Studied hashmap chaining
@@ -37,3 +38,6 @@
 ## 2.21
 - Studied linux device driver(char, block, network device / misc, module driver)
 - Loaded a dummy (module) driver to the linux
+## 2.22
+- Modified the document on the GPIO device driver
+- Write document that readers don't need to ask about
