@@ -11,15 +11,14 @@ includes:
 - Operating system, Computer architecture
 - Software engineering(Git, Docker, CI/CD, UML, Testing, etc)
 - Database(SQL)
-- etc
 ### [Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
 includes:
 - ARM architecture
 - Bus(APB, AXI)
 - Yocto BSP
-- U-boot, Kernel
+- U-boot
+- Linux kernel
 - Device driver
-- etc
 
 ### [Web development](https://github.com/vacu9708/Study-records/tree/main/Web%20development)
 includes:
@@ -29,8 +28,7 @@ includes:
 - Redis
 - Microservices
 - https
-- Kafka(load balancing)
-- etc
+- Kafka
 
 # 🌠Projects
 ### [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV) `2022/05~2022/12`
