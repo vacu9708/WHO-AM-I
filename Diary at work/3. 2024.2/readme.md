@@ -40,4 +40,5 @@
 - Loaded a dummy (module) driver to the linux
 ## 2.22
 - Modified the document on the GPIO device driver
-- Write document that readers don't need to ask about
+## 2.23
+- Connected a device to a driver by editing the .dts file
