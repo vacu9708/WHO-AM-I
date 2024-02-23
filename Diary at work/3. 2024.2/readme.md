@@ -40,5 +40,7 @@
 - Loaded a dummy (module) driver to the linux
 ## 2.22
 - Modified the document on the GPIO device driver
+- Studied device tree
 ## 2.23
+- Studied device tree
 - Connected a platform device to a platform driver
