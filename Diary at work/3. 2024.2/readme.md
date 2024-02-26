@@ -44,3 +44,5 @@
 ## 2.23
 - Studied device tree
 - Connected a platform device to a platform driver
+## 2.26
+- Studied how to set memory(reserved memory, CMA alloc) using device tree
