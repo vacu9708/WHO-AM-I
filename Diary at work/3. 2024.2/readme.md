@@ -32,17 +32,21 @@
 - Fixed bugs/tested the GPIO device driver
 ## 2.19
 - Wrote test code for the GPIO device driver
+- Wrote document about the work so far
 ## 2.20
 - Code review for the GPIO device driver
 - Studied linux device driver
 ## 2.21
 - Studied linux device driver(char, block, network device / misc, module driver)
-- Loaded a dummy (module) driver to the linux
+- Loaded a dummy (module) driver to the linux and wrote document about this
 ## 2.22
 - Modified the document on the GPIO device driver
 - Studied device tree
 ## 2.23
 - Studied device tree
-- Connected a platform device to a platform driver
+- Connected a platform device to a platform driver and wrote document about this
 ## 2.26
 - Studied how to set memory(reserved memory, CMA alloc) using device tree
+## 2.27
+By modifying the device tree
+- Set memory size, reserved memory, and CMA memory pool and wrote document about this
