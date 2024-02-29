@@ -50,3 +50,8 @@
 ## 2.27
 By modifying the device tree
 - Set memory size, reserved memory, and CMA memory pool and wrote document about this
+## 2.28
+- Studied kernel initialization (initcalls)
+## 2.29
+- Studied interrupts in Linux
+- Used each bottom-half interrupt method
