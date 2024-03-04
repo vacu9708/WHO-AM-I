@@ -53,5 +53,4 @@ By modifying the device tree
 ## 2.28
 - Studied kernel initialization (initcalls)
 ## 2.29
-- Studied interrupts in Linux
-- Used each bottom-half interrupt method
+- Studied interrupts in Linux each bottom-half interrupt method
