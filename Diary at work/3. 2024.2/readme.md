@@ -1,7 +1,7 @@
 ## Summary of this month
-- Studied [**u-boot**](https://github.com/vacu9708/Study-records/tree/main/Embedded_system/u-boot)
+- Studied u-boot
 - Studied device driver
-- Studied [**Linux kernel**](https://github.com/vacu9708/Study-records/tree/main/Embedded_system/Linux%20kernel)
+- Studied Linux kernel
 - Write document that readers don't need to ask about
 
 ## 2.1
