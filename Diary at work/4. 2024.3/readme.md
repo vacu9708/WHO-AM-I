@@ -4,4 +4,6 @@
 ## 3.4
 - Studied and practiced the interrupt of Linux including each bottom-half interrupt method
 ## 3.5
-- Studied and practiced each lock mechanisms in linux
+- Studied and practiced each lock mechanisms and how to use them in the interrupt context in linux
+## 3.6
+- Studied and practiced memory allocation such as kmalloc, vmalloc in the viewpoint of continous and cache/non-cache
