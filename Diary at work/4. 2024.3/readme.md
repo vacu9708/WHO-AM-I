@@ -9,3 +9,6 @@
 - Studied and practiced memory allocation such as kmalloc, vmalloc in the viewpoint of continous and cache/non-cache
 ## 3.7
 - Continued the work of 3.6
+## 3.11
+- Studied and practiced timers in Linux
+- Had an interview with the managing director about switching from an intern to a regular employee.
