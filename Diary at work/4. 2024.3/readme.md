@@ -1,4 +1,3 @@
-[study records](https://github.com/vacu9708/Study-records/tree/main/Embedded_system/Linux%20kernel)
 ## Summary of this month
 - Studied Linux kernel
 ## 3.4
@@ -12,3 +11,8 @@
 ## 3.11
 - Studied and practiced timers in Linux
 - Had an interview with the managing director about switching from an intern to a regular employee.
+# 3.12
+- Desinged a big picture according to the requirements of a linux module driver
+# 3.13
+- Wrote code according to the architecture(which includes hrtimer, spinlock in an interrupt, adding devices in a DTS, misc driver)
+# 3.14
