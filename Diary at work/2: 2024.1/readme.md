@@ -1,5 +1,3 @@
-## Summary of this month
-
 ## 1.2
 ### Assignment: data structure, computer architecture
 - Finished studying Circular queue
