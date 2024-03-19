@@ -28,3 +28,12 @@
 ### Assignment: Linux kernel final
 - Tested the code
 - Started writing the document of the final assignment
+# 3.18
+### Assignment: Linux kernel final
+- Finished writing test document
+- Git pushed the source code
+- Received code review, modified the code, and git pusehd the code again
+- Wrote user's manual
+# 3.19
+### Assignment: Linux kernel final
+- Wrote user's manual
