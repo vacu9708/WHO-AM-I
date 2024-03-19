@@ -36,4 +36,5 @@
 - Wrote user's manual
 # 3.19
 ### Assignment: Linux kernel final
+- Modified code according to the code review
 - Wrote user's manual
