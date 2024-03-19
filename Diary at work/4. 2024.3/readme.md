@@ -14,27 +14,27 @@
 ### Assignment: Linux kernel
 - Studied and practiced timers in Linux
 - Had an interview with the managing director about switching from an intern to a regular employee.
-# 3.12
+## 3.12
 ### Assignment: Linux kernel final
 - Desinged a big picture according to the requirements of a linux module driver
-# 3.13
+## 3.13
 ### Assignment: Linux kernel final
 - Wrote code according to the architecture(which includes hrtimer, spinlock in an interrupt, adding devices in a DTS, misc driver)
-# 3.14
+## 3.14
 ### Assignment: Linux kernel final
 - Fixed bugs of the code
 - Removed warnings of the code
-# 3.15
+## 3.15
 ### Assignment: Linux kernel final
 - Tested the code
 - Started writing the document of the final assignment
-# 3.18
+## 3.18
 ### Assignment: Linux kernel final
 - Finished writing test document
 - Git pushed the source code
 - Received code review, modified the code, and git pusehd the code again
 - Wrote user's manual
-# 3.19
+## 3.19
 ### Assignment: Linux kernel final
 - Modified code according to the code review
 - Wrote user's manual
