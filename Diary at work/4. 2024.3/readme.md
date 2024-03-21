@@ -38,3 +38,6 @@
 ### Assignment: Linux kernel final
 - Modified code according to the code review
 - Wrote user's manual
+## 3.20
+### Assignment: Linux kernel final
+- Practiced for the upcoming presentation about the kernal final project
