@@ -24,6 +24,7 @@
 ### Assignment: Linux kernel final
 - Fixed bugs of the code
 - Removed warnings of the code
+- Had a company dinner
 ## 3.15
 ### Assignment: Linux kernel final
 - Tested the code
@@ -41,3 +42,14 @@
 ## 3.20
 ### Assignment: Linux kernel final
 - Practiced for the upcoming presentation about the kernal final project
+- Had a company dinner
+## 3.21
+### Assignment: Linux kernel final
+- Practiced for the upcoming presentation about the kernal final project
+## 3.22
+### Assignment: Linux kernel final
+
+# Final day of the internship
+---
+
+## 3.25
