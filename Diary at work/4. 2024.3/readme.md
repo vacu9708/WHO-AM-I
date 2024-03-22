@@ -47,9 +47,8 @@
 ### Assignment: Linux kernel final
 - Practiced for the upcoming presentation about the kernal final project
 ## 3.22
-### Assignment: Linux kernel final
+**Final day of the internship**
 
-# Final day of the internship
 ---
 
 ## 3.25
