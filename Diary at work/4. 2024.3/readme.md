@@ -52,3 +52,8 @@
 ---
 
 ## 3.25
+First day as a permanent employee
+### Assignment: ExynosAuto-camaera
+- Docker setup for building the camera
+- Built the camera
+- Read camera data sheet (CSI, image signal processer)
