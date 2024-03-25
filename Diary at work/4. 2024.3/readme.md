@@ -57,3 +57,4 @@ First day as a permanent employee
 - Docker setup for building the camera
 - Built the camera
 - Read camera data sheet (CSI, image signal processer)
+- Set Samsung Jira/Confluence
