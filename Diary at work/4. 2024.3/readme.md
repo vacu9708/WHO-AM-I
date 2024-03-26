@@ -53,8 +53,15 @@
 
 ## 3.25
 First day as a permanent employee
-### Assignment: ExynosAuto-camaera
+### Assignment: ExynosAuto V920-camera
 - Docker setup for building the camera
 - Built the camera
 - Read camera data sheet (CSI, image signal processer)
-- Set Samsung Jira/Confluence
+- Set up Samsung Jira/Confluence
+## 3.26
+### Assignment: ExynosAuto V920-camera
+- Rebuild after the build failure
+  - Success
+- Read the data sheet(image processor)
+- Set up test environment (moving necessary files and building secCamera)
+  - Wrote a shell script to automate the setting
