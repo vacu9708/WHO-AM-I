@@ -68,3 +68,4 @@ First day as a permanent employee
 ## 3.27
 ### Assignment: ExynosAuto V920-camera
 - Analyzed the source code
+- Read the data sheet
