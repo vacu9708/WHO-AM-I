@@ -65,3 +65,6 @@ First day as a permanent employee
 - Read the data sheet(image processor)
 - Set up test environment (moving necessary files and building secCamera)
   - Wrote a shell script to automate the setting
+## 3.27
+### Assignment: ExynosAuto V920-camera
+- Analyzed the source code
