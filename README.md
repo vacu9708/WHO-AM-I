@@ -1,36 +1,3 @@
-# 👨‍💼Work experience
-- [CoAsia](http://www.coasia.com/) `12/2023 ~ Present`
-  - [Diary](https://github.com/vacu9708/WHO-AM-I/tree/main/Diary%20at%20work)
-
-# 🧰Skills
-- C/C++, Python, Linux, Jira/Confluence
-## [Study records](https://github.com/vacu9708/Study-records)
-### [Computer science](https://github.com/vacu9708/Study-records/tree/main/Computer%20science)
-includes:
-- Data structure, Algorithm
-- Operating system, Computer architecture
-- Database
-- Network
-- Software engineering(Git, Docker, CI/CD, UML, Testing, etc)
-### [Embedded system](https://github.com/vacu9708/Study-records/tree/main/Embedded_system)
-includes:
-- ARM architecture
-- Bus(APB, AXI)
-- Yocto BSP
-- U-boot
-- Linux kernel
-- Device driver
-
-### [Web development](https://github.com/vacu9708/Study-records/tree/main/Web%20development)
-includes:
-- Spring, NodeJS
-- JWT, Session
-- OAuth(google, login)
-- Redis
-- Microservices
-- https
-- Kafka
-
 # 🌠Projects
 ### [주차 정보 알림이](https://github.com/vacu9708/Smart-CCTV) `2022/05~2022/12`
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/9a6fa318-5d00-458c-bb5e-03a3105114cf" width="60%"><br>
