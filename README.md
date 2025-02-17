@@ -11,6 +11,7 @@
 
 ## [Webpage update notifier](https://github.com/vacu9708/Information_notifier) `2022/06~2022/07`
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/4efa38a6-52f3-44a1-b0a0-bc1e4a9b369a" width="50%"><br>
+- Developed a program sends notifications each time new information is uploaded to specified webpages.
 
 ## [Video conference](https://github.com/vacu9708/video-conference) `2022/09 - 2022/10`
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="50%"><br>
