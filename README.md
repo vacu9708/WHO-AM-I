@@ -32,4 +32,4 @@
 <img src="https://github.com/user-attachments/assets/5e1ea7f1-d670-4391-b8bb-a37d5c4182af" width="50%"><br>
 
 ## [Gaussian elimination](https://github.com/vacu9708/Algorithm/tree/main/Related%20to%20math/Gaussian%20elimination)
-![image](https://github.com/user-attachments/assets/50267ab2-cdbd-4ae1-836c-1982e99936e1)
+<img src="https://github.com/user-attachments/assets/50267ab2-cdbd-4ae1-836c-1982e99936e1" width="50%"><br>
