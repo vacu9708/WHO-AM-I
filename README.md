@@ -25,7 +25,7 @@
 <img src="https://github.com/user-attachments/assets/e363a69b-3f88-470d-8a04-41bd183a4e49" width="50%"><br>
 
 ## [Basic machine learning](https://github.com/vacu9708/Machine-learning/tree/main/Foundations%20of%20machine%20learning)
-<img src=https://github.com/user-attachments/assets/ea4efdd1-214a-42f8-a013-57a96649e3bc" width="60%"><br>
+<img src="https://github.com/user-attachments/assets/ea4efdd1-214a-42f8-a013-57a96649e3bc" width="60%"><br>
 
 ## [Finding the value of Pi](https://github.com/vacu9708/Algorithm/tree/main/Related%20to%20math/Find%20Pi)
 <img src="https://github.com/user-attachments/assets/5e1ea7f1-d670-4391-b8bb-a37d5c4182af" width="60%"><br>
