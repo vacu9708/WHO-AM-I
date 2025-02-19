@@ -18,7 +18,7 @@
 - Developed a web page using JavaScript and WebRTC where three or more participants can have group chat and video calls
 
 # ✍Studying
-## [Game hacking](https://github.com/vacu9708/Game-hacking/tree/main)
+## [Game hacking](https://github.com/vacu9708/Game-hacking/tree/main) `2024/11 - 2024/12`
 <img src="https://github.com/user-attachments/assets/d4a40ab2-8d29-4d0e-8c65-48245d5bd141" width="70%"><br>
 - Studied how to bypass the video game's security mechanisms, track enemy positions, and draw rectangles around them
 
