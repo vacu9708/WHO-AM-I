@@ -19,7 +19,6 @@
 
 # ✍Studying
 ## [Game hacking](https://github.com/vacu9708/Game-hacking/tree/main)
-![image](https://github.com/user-attachments/assets/474e128c-3288-4fb4-9a3f-e751520ef48a)
 <img src="https://github.com/user-attachments/assets/d4a40ab2-8d29-4d0e-8c65-48245d5bd141" width="70%"><br>
 - Studied how to bypass the video game's security mechanisms, track enemy positions, and draw rectangles around them
 
