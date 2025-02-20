@@ -1,6 +1,6 @@
-## Porting a custom linux(using Yocto) onto Rapsberry pi
+## Porting a custom linux(using Yocto) onto Rapsberry pi `2025/02 - ongoing`
 
-## Analyzing the raspberry pi BSP
+## Analyzing the raspberry pi BSP `2025/02 - ongoing`
 
 ## [Automatic parking lot guide using AI object tracking](https://github.com/vacu9708/Smart-CCTV) `2022/05 - 2022/12`
 <img src="https://github.com/user-attachments/assets/5f891cd7-bb45-49bc-b7d3-094bab260ea1" width="50%"><br>
