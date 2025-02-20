@@ -1,4 +1,3 @@
-# 💼Projects
 ## [Automatic parking lot guide using AI object tracking](https://github.com/vacu9708/Smart-CCTV) `2022/05 - 2022/12`
 <img src="https://github.com/user-attachments/assets/5f891cd7-bb45-49bc-b7d3-094bab260ea1" width="50%"><br>
 -	Developed a system that tracks cars and displays parking information on LEDs to reduce wasted time when searching for parking spaces.
@@ -17,7 +16,6 @@
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="50%"><br>
 - Developed a web page using JavaScript and WebRTC where three or more participants can have group chat and video calls
 
-# ✍Studying
 ## [Game hacking](https://github.com/vacu9708/Game-hacking/tree/main) `2024/11 - 2024/12`
 <img src="https://github.com/user-attachments/assets/d4a40ab2-8d29-4d0e-8c65-48245d5bd141" width="70%"><br>
 - Studied how to bypass the video game's security mechanisms, track enemy positions, and draw rectangles around them
