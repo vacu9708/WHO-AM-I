@@ -14,7 +14,7 @@
 
 ## [Game hacking](https://github.com/vacu9708/Game-hacking/tree/main) `2024/11 - 2024/12`
 <img src="https://github.com/user-attachments/assets/d4a40ab2-8d29-4d0e-8c65-48245d5bd141" width="70%"><br>
-- Studied how to bypass the video game's security mechanisms, track enemy positions, and draw rectangles around them
+- Studied how to bypass video game's security mechanisms, track enemy positions, and draw rectangles around them
 
 ## [Webpage update notifier](https://github.com/vacu9708/Information_notifier) `2022/06~2022/07`
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/4efa38a6-52f3-44a1-b0a0-bc1e4a9b369a" width="50%"><br>
