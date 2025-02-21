@@ -39,3 +39,7 @@
 
 ## [Gaussian elimination](https://github.com/vacu9708/Algorithm/tree/main/Related%20to%20math/Gaussian%20elimination)
 <img src="https://github.com/user-attachments/assets/50267ab2-cdbd-4ae1-836c-1982e99936e1" width="60%"><br>
+
+## [Inter Process Communication](https://github.com/vacu9708/Study-records/tree/main/Computer%20science/Operating%20system/Inter-Process-Communication)
+![image](https://github.com/user-attachments/assets/125b91aa-bf73-4217-ae6d-6cb12f7e492d)
+
