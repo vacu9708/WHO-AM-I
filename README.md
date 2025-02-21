@@ -1,6 +1,6 @@
 ## Porting a custom linux onto Rapsberry pi `2025/02 - ongoing`
 - Studied how to port a custom linux onto Raspberry pi using **Yocto**
-- Added and tested a real time streaming on the custom linux
+- Added and tested real time streaming
 - Added and tested communication through MQTT
 
 ## Analyzing the raspberry pi BSP `2025/02 - ongoing`
