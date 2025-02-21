@@ -11,7 +11,8 @@
 -	Developed a system that tracks cars and displays parking information on LEDs to reduce wasted time when searching for parking spaces.
 
 ## [Guitar tuner](https://github.com/vacu9708/Guitar-tuner) `2020/05 - 2020/06, 2022/02 - 2022/03`
-![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)<br>
+![image](https://github.com/vacu9708/WHO-AM-I/assets/67142421/343937f2-4515-4fd1-91eb-ee834690f735)
+![image](https://github.com/user-attachments/assets/4c0dc765-d0ee-4ecb-830a-73c4da03ac69)
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/5a4266c7-eaea-4b97-96ae-4e87b6524b30" width="60%"><br>
 - Developed sound frequency analyzer
 - Studied [Fast Fourier Transform](https://github.com/vacu9708/Signal-processing/tree/main/Fourier%20transform)
