@@ -1,7 +1,7 @@
 ## [Porting a custom linux onto Rapsberry pi](https://github.com/vacu9708/Raspberry-pi) `2025/02 - ongoing`
-- Studied how to port a custom linux onto Raspberry pi using **Yocto**
-- Added and tested real time video streaming(ongoing)
-- Added and tested communication through MQTT(ongoing)
+- Ported a custom linux onto Raspberry pi using **Yocto**
+- Added and tested real time video streaming
+- Added and tested communication through MQTT
 
 ## [Analyzing the raspberry pi BSP](https://github.com/vacu9708/Raspberry-pi) `2025/02 - ongoing`
 - 
