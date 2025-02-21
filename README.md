@@ -1,9 +1,9 @@
-## Porting a custom linux onto Rapsberry pi `2025/02 - ongoing`
+## [Porting a custom linux onto Rapsberry pi](https://github.com/vacu9708/Raspberry-pi) `2025/02 - ongoing`
 - Studied how to port a custom linux onto Raspberry pi using **Yocto**
 - Added and tested real time streaming
 - Added and tested communication through MQTT
 
-## Analyzing the raspberry pi BSP `2025/02 - ongoing`
+## [Analyzing the raspberry pi BSP](https://github.com/vacu9708/Raspberry-pi) `2025/02 - ongoing`
 - Analyzed the camera part
 
 ## [Automatic parking lot guide using AI object tracking](https://github.com/vacu9708/Smart-CCTV) `2022/05 - 2022/12`
