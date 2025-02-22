@@ -1,9 +1,9 @@
-## [Porting a custom linux onto Rapsberry pi](https://github.com/vacu9708/Raspberry-pi) `2025/02 - ongoing`
+## [Porting a custom linux onto Rapsberry pi](https://github.com/vacu9708/Raspberry-pi/tree/main/BSP) `2025/02 - ongoing`
 - Ported a custom linux onto Raspberry pi using **Yocto**
 - Added and tested real time video streaming
 - Added and tested communication through MQTT
 
-## [Analyzing the raspberry pi BSP](https://github.com/vacu9708/Raspberry-pi) `2025/02 - ongoing`
+## [Analyzing the raspberry pi BSP](https://github.com/vacu9708/Raspberry-pi/tree/main/BSP%20analysis) `2025/02 - ongoing`
 - 
 
 ## [Automatic parking lot guide using AI object tracking](https://github.com/vacu9708/Smart-CCTV) `2022/05 - 2022/12`
@@ -17,7 +17,7 @@
 - Developed sound frequency analyzer
 - Studied [Fast Fourier Transform](https://github.com/vacu9708/Signal-processing/tree/main/Fourier%20transform)
 
-## [Game hacking](https://github.com/vacu9708/Game-hacking/tree/main) `2024/11 - 2024/12`
+## [Game hacking](https://github.com/vacu9708/Game-hacking) `2024/11 - 2024/12`
 <img src="https://github.com/user-attachments/assets/d4a40ab2-8d29-4d0e-8c65-48245d5bd141" width="70%"><br>
 - Studied how to bypass video game's security mechanisms, track enemy positions, and draw rectangles around them
 
