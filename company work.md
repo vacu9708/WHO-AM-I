@@ -55,7 +55,7 @@ _Coasia Nexell_ | March 2024 – Present
     
     - Developed unit tests with KUnit and gcov for the camera device driver.
     - Wrote a Python script to automate the creation of KUnit templates, enhancing test code development efficiency.
-- **Additional Contributions:**
+- **Additional:**
     
     - Developed a Python script to log the latest commit from all BSP repositories for easier troubleshooting after updates.
     - Completed trace32 training.
