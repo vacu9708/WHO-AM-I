@@ -1,5 +1,5 @@
 **Embedded BSP Intern**  
-_Coasia Nexell_ | December 2023 – March 2024
+December 2023 – March 2024
 
 - Learned core concepts in embedded software including data structures, computer architecture, operating systems, ARM architecture, Yocto, and Docker.
 - Studied bootloader development and U\_BOOT\_CMD implementation.
@@ -8,7 +8,7 @@ _Coasia Nexell_ | December 2023 – March 2024
 ---
 
 **Embedded BSP Engineer (Camera Focus)**  
-_Coasia Nexell_ | March 2024 – Present  
+March 2024 – Present  
 **Technologies:**
 
 - **SoC:** Samsung ExynosAuto V920
