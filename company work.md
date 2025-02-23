@@ -1,26 +1,61 @@
 **Embedded BSP Intern**  
-_Dec 2023 – Mar 2024_
+_Coasia Nexell_ | December 2023 – March 2024
 
-- Worked independently on assigned projects after receiving clear goals and directions.
-- Studied embedded software fundamentals: data structures, computer architecture, operating systems, ARM architecture, Yocto, and Docker.
-- Learned bootloader and U-Boot command development.
+- Learned core concepts in embedded software including data structures, computer architecture, operating systems, ARM architecture, Yocto, and Docker.
+- Studied bootloader development and U\_BOOT\_CMD implementation.
 - Explored Linux kernel and device driver development.
 
-**Embedded BSP Engineer (Focus: Camera)**  
-_Mar 2024 – Present_
+---
 
-- Develop and support camera software on platforms based on the Samsung ExynosAuto V920 running Linux and Android.
-- Work with C/C++, Python, and Kotlin using tools such as GDB, UML (drawio, PlantUML), Yocto, Docker, CMake, Shell scripting, and GStreamer.
-- In an AI object detection project, wrote shell scripts to swap camera device drivers without rebuild/reboot and used OpenCV to adjust streaming window positions in Wayland.
-- Assisted customers by verifying hardware capabilities via datasheet review, explaining multi-camera setups using GStreamer, and resolving vsync issues through patching and oscilloscope validation.
-- Set up test environments and automated shell scripts for BSP validation and debugging, including:
-    - Verifying Android External View System functionality.
-    - Fixing I2C configuration issues between the camera device driver and hardware.
-    - Addressing JSON parsing errors and adding missing color format support in middleware.
-- Ported a Raspberry Pi camera to the ExynosAuto platform by enabling MIPI pins as specified in circuit schematics, verifying CSI register status, and adjusting device driver functions for camera settings.
-- Supported ISP tuning for Naver Labs by debugging I2C errors in CSI channels, automating camera device driver generation with Python, and adding I2C communication logging to assist in diagnosing issues.
-- Developed an Android camera sample app in Android Studio that features preview, capture, image thumbnail, and parameter settings, and resolved resolution limitations in the camera HAL.
-- Analyzed and presented code from camera middleware, color space conversion middleware, and Android External View System using diagrams and debugging tools.
-- Wrote unit tests for the camera device driver using KUnit and GCOV, and automated KUnit template generation with Python.
-- Created a Python script to log the latest commits from all BSP repositories, streamlining post-update debugging processes.
-- Completed Trace32 training.
+**Embedded BSP Engineer (Camera Focus)**  
+_Coasia Nexell_ | March 2024 – Present  
+**Technologies:**
+
+- **SoC:** Samsung ExynosAuto V920
+- **OS:** Linux, Android
+- **Languages:** C/C++, Python, Kotlin
+- **Tools:** GDB, UML (drawio, plantUML), Yocto, Docker, CMake, Shell scripting, Gstreamer
+
+**Key Projects and Contributions:**
+
+- **AI Object Detection Support:**
+    
+    - Created a shell script to switch camera device drivers without requiring rebuilds or reboots.
+    - Used OpenCV to align streaming windows in Wayland when using Gstreamer.
+- **Technical Support for Camera Software:**
+    
+    - Reviewed hardware datasheets to verify support (e.g., confirming the absence of RGB-to-RGBA conversion support) and communicated findings to customers.
+    - Explained methods for running simultaneous camera streams with Gstreamer.
+    - Applied and verified a patch to resolve a vsync bug by checking the board schematics and confirming a 60Hz frequency with an oscilloscope.
+- **BSP Validation and Debugging:**
+    
+    - Set up test environments and validated camera performance across various models using automated shell scripts.
+    - Verified Android External View System functionality.
+    - Resolved remote I/O errors in the camera device driver by addressing separated I2C settings and adjusting rx/tx rate configurations.
+    - Fixed JSON parsing issues in the camera middleware and added missing color format support for RGGB20.
+- **Porting Pi Camera to ExynosAuto:**
+    
+    - Enabled MIPI pins (pwr\_enable, 2-lane MIPI) and validated functionality with an oscilloscope.
+    - Read CSI registers to confirm PHY\_STATUS and modified the Raspberry Pi camera device driver (with added debug prints) to align settings with the ExynosAuto board.
+    - Noted limitations in real-time ISP tuning, resulting in lower image quality compared to GMSL cameras.
+- **ISP Tuning Support for Naver Labs Cameras:**
+    
+    - Investigated I2C errors on a specific CSI channel by testing multiple boards to isolate hardware issues.
+    - Modified the camera device driver to support single-camera operation per CSI channel and developed a Python script to auto-generate driver code.
+    - Integrated I2C communication logging within the driver for debugging purposes and verified functionality following ISP algorithm updates.
+- **Android Camera Sample App Development:**
+    
+    - Developed an Android sample application (using Android Studio) featuring preview, capture, image thumbnail, and parameter configuration.
+    - Resolved issues with fixed resolution in the camera HAL to enable high-resolution camera usage.
+- **Code Analysis and Presentations:**
+    
+    - Analyzed camera middleware, color space conversion middleware, and Android External View System code using block and sequence diagrams.
+    - Utilized VSCode call hierarchy, reference searches, and GDB to understand code flow and image buffer storage (YUYV, RGBA formats).
+- **Unit Testing for Camera Device Driver:**
+    
+    - Developed unit tests with KUnit and gcov for the camera device driver.
+    - Wrote a Python script to automate the creation of KUnit templates, enhancing test code development efficiency.
+- **Additional Contributions:**
+    
+    - Developed a Python script to log the latest commit from all BSP repositories for easier troubleshooting after updates.
+    - Completed trace32 training.
