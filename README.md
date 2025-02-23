@@ -1,10 +1,7 @@
-## [Porting a custom linux onto Rapsberry pi](https://github.com/vacu9708/Raspberry-pi/tree/main/BSP) `2025/02 - ongoing`
-- Ported a custom linux onto Raspberry pi using **Yocto**
-- Added and tested real time video streaming
-- Added and tested communication through MQTT
-
-## [Analyzing the raspberry pi BSP](https://github.com/vacu9708/Raspberry-pi/tree/main/BSP%20analysis) `2025/02 - ongoing`
-- 
+## [Practicing and understanding Board Support Package through Raspberry pi](https://github.com/vacu9708/Raspberry-pi) `2025/02 - ongoing`
+- Practiced BSP by installing a custom linux built with **Yocto** onto Raspberry pi
+  - Added and tested real time video streaming and communication via MQTT
+- Analyzed the raspberry pi BSP to understand how BSP works
 
 ## [Automatic parking lot guide using AI object tracking](https://github.com/vacu9708/Smart-CCTV) `2022/05 - 2022/12`
 <img src="https://github.com/user-attachments/assets/5f891cd7-bb45-49bc-b7d3-094bab260ea1" width="60%"><br>
