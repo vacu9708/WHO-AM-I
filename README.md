@@ -1,4 +1,4 @@
-This page showcases projects & studies I've worked on outside my job.
+This page showcases projects & studies I've worked on
 
 ## [Practicing and understanding Board Support Package through Raspberry pi](https://github.com/vacu9708/Raspberry-pi) `2025/02 - ongoing`
 - Practiced BSP by installing a custom linux built with **Yocto** onto Raspberry pi
