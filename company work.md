@@ -1,53 +1,26 @@
-**Embedded BSP Engineer**  
-March 2024 – Present  
-**Coasia Nexell**
-
-- **Camera System Development & Debugging**
-    
-    - Developed and optimized camera device drivers for **Samsung ExynosAuto V920** on **Linux** and **Android** platforms.
-    - Created a **shell script** to swap pre-built camera drivers without requiring system reboots, improving workflow efficiency.
-    - Used **OpenCV** to align streaming windows when using **GStreamer** with **Wayland**.
-- **Technical Support & Issue Resolution**
-    
-    - Assisted customers with **camera hardware and software** issues, including explaining RGB-to-RGBA format limitations from the hardware datasheet.
-    - Provided guidance on **simultaneous camera execution** with **GStreamer** and implemented a patch to fix **VSync issues** by verifying signals with an oscilloscope.
-- **BSP Validation & Debugging**
-    
-    - Automated **BSP validation** scripts using **Shell scripting** to test various camera models after BSP updates.
-    - Debugged critical camera **I2C communication errors**, including missing **RX/TX rate settings** and JSON parsing issues in camera middleware.
-    - Ensured compatibility of **RGGB20 color formats** in middleware.
-- **Porting Raspberry Pi Camera to ExynosAuto**
-    
-    - Enabled **MIPI lanes** and verified signals via **oscilloscope**.
-    - Adapted **I2C write functions** to transfer **camera settings** from Raspberry Pi to ExynosAuto.
-    - Identified limitations in real-time **ISP tuning** compared to Raspberry Pi implementations.
-- **ISP Tuning & Debugging for Naver Labs**
-    
-    - Diagnosed **CSI channel errors** using **multi-board testing** to isolate hardware failures.
-    - Modified camera drivers to support **single-camera operation per CSI channel** for defect analysis.
-    - Created a **Python script** for automated driver generation, streamlining the debugging process.
-- **Android Camera Sample App Development**
-    
-    - Developed a **camera sample app** using **Android Studio**, featuring preview, capture, image thumbnail, and parameter settings.
-    - Fixed an issue where **HAL resolution constraints** prevented the use of high-resolution cameras.
-- **Code Analysis & Documentation**
-    
-    - Analyzed **Camera Middleware, Color Space Conversion, and Android External View System** codebases and presented findings.
-    - Used **block diagrams, sequence diagrams, and call hierarchy tools** (VSCode, GDB) for effective debugging.
-    - Investigated **image buffer formats (YUYV, RGBA)** to understand image data storage.
-- **Unit Testing & Automation**
-    
-    - Developed **unit test code** for camera drivers using **KUnit** and **GCov**.
-    - Automated **KUnit test template generation** with Python to improve development efficiency.
-- **Miscellaneous Contributions**
-    
-    - Built a **Python script** to log **latest BSP commits** for easier debugging after updates.
-    - Completed **Trace32 debugging training** for deeper embedded system analysis.
-
----
-
 **Embedded BSP Intern**  
-December 2023 – March 2024
+_Dec 2023 – Mar 2024_
 
-- Gained hands-on experience in **embedded systems development**, focusing on **Bootloader (U-Boot), Linux Kernel, and Device Drivers**.
-- Studied core topics including **Data Structures, Computer Architecture, OS Concepts, ARM Architecture, Yocto, and Docker**.
+- Worked independently on assigned projects after receiving clear goals and directions.
+- Studied embedded software fundamentals: data structures, computer architecture, operating systems, ARM architecture, Yocto, and Docker.
+- Learned bootloader and U-Boot command development.
+- Explored Linux kernel and device driver development.
+
+**Embedded BSP Engineer (Focus: Camera)**  
+_Mar 2024 – Present_
+
+- Develop and support camera software on platforms based on the Samsung ExynosAuto V920 running Linux and Android.
+- Work with C/C++, Python, and Kotlin using tools such as GDB, UML (drawio, PlantUML), Yocto, Docker, CMake, Shell scripting, and GStreamer.
+- In an AI object detection project, wrote shell scripts to swap camera device drivers without rebuild/reboot and used OpenCV to adjust streaming window positions in Wayland.
+- Assisted customers by verifying hardware capabilities via datasheet review, explaining multi-camera setups using GStreamer, and resolving vsync issues through patching and oscilloscope validation.
+- Set up test environments and automated shell scripts for BSP validation and debugging, including:
+    - Verifying Android External View System functionality.
+    - Fixing I2C configuration issues between the camera device driver and hardware.
+    - Addressing JSON parsing errors and adding missing color format support in middleware.
+- Ported a Raspberry Pi camera to the ExynosAuto platform by enabling MIPI pins as specified in circuit schematics, verifying CSI register status, and adjusting device driver functions for camera settings.
+- Supported ISP tuning for Naver Labs by debugging I2C errors in CSI channels, automating camera device driver generation with Python, and adding I2C communication logging to assist in diagnosing issues.
+- Developed an Android camera sample app in Android Studio that features preview, capture, image thumbnail, and parameter settings, and resolved resolution limitations in the camera HAL.
+- Analyzed and presented code from camera middleware, color space conversion middleware, and Android External View System using diagrams and debugging tools.
+- Wrote unit tests for the camera device driver using KUnit and GCOV, and automated KUnit template generation with Python.
+- Created a Python script to log the latest commits from all BSP repositories, streamlining post-update debugging processes.
+- Completed Trace32 training.
